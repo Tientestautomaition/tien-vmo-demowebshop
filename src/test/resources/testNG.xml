@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing" parallel="tests" thread-count="2">
+  <test name="Params">
+    <parameter name="browser" value="chrome"/>
+      <parameter name="grid" value="false" />
+
+      <classes>
+      <class name="com.automation.fresher.demowebshop.feature.Homepage.Article"/>
+    </classes>
+  </test>
+</suite>
