@@ -1,0 +1,9 @@
+[08-10-2023 19:49:34.938 INFO] - Open browser
+[08-10-2023 19:49:39.211 INFO] - Open Home page success
+[08-10-2023 19:49:39.215 INFO] - Open Home page success
+[08-10-2023 19:49:39.217 INFO] - Open Home page success
+[08-10-2023 19:49:41.247 INFO] - Open Book page success
+[08-10-2023 19:49:41.248 INFO] - Open Book page success
+[08-10-2023 19:49:41.248 INFO] - Open Book page success
+[08-10-2023 19:49:55.092 INFO] - ---------- TC_02_Verify_Login_To_Demo_Web_Shop FAILED test ----------
+[08-10-2023 19:49:56.882 INFO] - Close browser

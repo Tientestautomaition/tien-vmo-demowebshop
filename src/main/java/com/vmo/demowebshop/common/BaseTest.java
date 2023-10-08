@@ -1,47 +1,23 @@
-package com.vmo.nopcommerce.common;
+package com.vmo.demowebshop.common;
 
-import com.vmo.nopcommerce.Enviroment.GridFactory;
-import com.vmo.nopcommerce.Enviroment.LocalFactory;
-import com.vmo.nopcommerce.helper.Log;
-import com.vmo.nopcommerce.helper.TestNGListener;
+import com.vmo.demowebshop.Enviroment.LocalFactory;
+import com.vmo.demowebshop.helper.Log;
+import com.vmo.demowebshop.helper.TestNGListener;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Listeners;
-import org.testng.annotations.Optional;
+import org.testng.annotations.*;
 
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Random;
-import org.testng.annotations.Parameters;
 
 @Listeners(TestNGListener.class)
 public class BaseTest {
     public WebDriver driver;
 
-//      @BeforeClass
-//    @Parameters("browser")
-//    public void openMultiBrowserDriver(@Optional("chrome") String browserName) {
-//        if (browserName.equalsIgnoreCase("firefox")) {
-//            driver = new FirefoxDriver();
-//        } else if (browserName.equalsIgnoreCase("chrome")) {
-//            driver = new ChromeDriver();
-//        } else if (browserName.equalsIgnoreCase("edge_chromium")) {
-//            driver = new EdgeDriver();
-//        }
-//        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-//        driver.manage().window().maximize();
-//    }
-
     @BeforeClass
-    @Parameters({"browser", "grid"})
-    public WebDriver getBrowserDriver(@Optional("CHROME") String browser, @Optional("false") String grid) {
-        if (grid.equalsIgnoreCase("true")) {
-            driver = new GridFactory().createGridDriver(browser);
-        } else {
+    @Parameters({"browser"})
+    public WebDriver getBrowserDriver(@Optional("CHROME") String browser) {
             driver = new LocalFactory().createDriver(browser);
-        }
         Log.info("Open browser");
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(GlobalConstants.LONG_TIMEOUT));

@@ -1,0 +1,116 @@
+[07-10-2023 16:23:14.775 INFO] - Open browser
+[07-10-2023 16:23:20.524 INFO] - Open Home page success
+[07-10-2023 16:23:20.524 INFO] - Open Home page success
+[07-10-2023 16:23:20.524 INFO] - Open Home page success
+[07-10-2023 16:23:22.112 INFO] - Open Login page success
+[07-10-2023 16:23:22.113 INFO] - Open Login page success
+[07-10-2023 16:23:22.114 INFO] - Open Login page success
+[07-10-2023 16:23:23.243 INFO] - Send Key To User name success
+[07-10-2023 16:23:23.243 INFO] - Send Key To  User name success
+[07-10-2023 16:23:23.244 INFO] - Send Key To  User name success
+[07-10-2023 16:23:24.362 INFO] - Send Key To Password success
+[07-10-2023 16:23:24.364 INFO] - Send Key To Password success
+[07-10-2023 16:23:24.366 INFO] - Send Key To Password success
+[07-10-2023 16:23:25.997 INFO] - Click on button Login success
+[07-10-2023 16:23:25.997 INFO] - Click on button Login success
+[07-10-2023 16:23:25.997 INFO] - Click on button Login success
+[07-10-2023 16:24:01.270 INFO] - Verify expected message success
+[07-10-2023 16:24:01.271 INFO] - Verify expected message success
+[07-10-2023 16:24:01.271 INFO] - Verify expected message success
+[07-10-2023 16:24:01.276 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 16:24:02.246 INFO] - Open Home page success
+[07-10-2023 16:24:02.247 INFO] - Open Home page success
+[07-10-2023 16:24:02.247 INFO] - Open Home page success
+[07-10-2023 16:24:03.932 INFO] - Open Login page success
+[07-10-2023 16:24:03.933 INFO] - Open Login page success
+[07-10-2023 16:24:03.933 INFO] - Open Login page success
+[07-10-2023 16:24:05.130 INFO] - Send Key To User name success
+[07-10-2023 16:24:05.135 INFO] - Send Key To  User name success
+[07-10-2023 16:24:05.144 INFO] - Send Key To  User name success
+[07-10-2023 16:24:06.269 INFO] - Send Key To Password success
+[07-10-2023 16:24:06.270 INFO] - Send Key To Password success
+[07-10-2023 16:24:06.272 INFO] - Send Key To Password success
+[07-10-2023 16:24:07.815 INFO] - Click on button Login success
+[07-10-2023 16:24:07.816 INFO] - Click on button Login success
+[07-10-2023 16:24:07.817 INFO] - Click on button Login success
+[07-10-2023 16:24:43.128 INFO] - Verify expected message success
+[07-10-2023 16:24:43.129 INFO] - Verify expected message success
+[07-10-2023 16:24:43.129 INFO] - Verify expected message success
+[07-10-2023 16:24:43.129 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 16:24:44.177 INFO] - Open Home page success
+[07-10-2023 16:24:44.177 INFO] - Open Home page success
+[07-10-2023 16:24:44.177 INFO] - Open Home page success
+[07-10-2023 16:24:45.822 INFO] - Open Login page success
+[07-10-2023 16:24:45.822 INFO] - Open Login page success
+[07-10-2023 16:24:45.823 INFO] - Open Login page success
+[07-10-2023 16:24:46.901 INFO] - Send Key To User name success
+[07-10-2023 16:24:46.902 INFO] - Send Key To  User name success
+[07-10-2023 16:24:46.903 INFO] - Send Key To  User name success
+[07-10-2023 16:24:48.066 INFO] - Send Key To Password success
+[07-10-2023 16:24:48.069 INFO] - Send Key To Password success
+[07-10-2023 16:24:48.070 INFO] - Send Key To Password success
+[07-10-2023 16:24:49.623 INFO] - Click on button Login success
+[07-10-2023 16:24:49.625 INFO] - Click on button Login success
+[07-10-2023 16:24:49.625 INFO] - Click on button Login success
+[07-10-2023 16:25:24.895 INFO] - Verify expected message success
+[07-10-2023 16:25:24.896 INFO] - Verify expected message success
+[07-10-2023 16:25:24.896 INFO] - Verify expected message success
+[07-10-2023 16:25:24.897 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 16:25:25.652 INFO] - Open Home page success
+[07-10-2023 16:25:25.653 INFO] - Open Home page success
+[07-10-2023 16:25:25.653 INFO] - Open Home page success
+[07-10-2023 16:25:27.250 INFO] - Open Login page success
+[07-10-2023 16:25:27.250 INFO] - Open Login page success
+[07-10-2023 16:25:27.250 INFO] - Open Login page success
+[07-10-2023 16:25:28.353 INFO] - Send Key To User name success
+[07-10-2023 16:25:28.355 INFO] - Send Key To  User name success
+[07-10-2023 16:25:28.357 INFO] - Send Key To  User name success
+[07-10-2023 16:25:29.507 INFO] - Send Key To Password success
+[07-10-2023 16:25:29.507 INFO] - Send Key To Password success
+[07-10-2023 16:25:29.508 INFO] - Send Key To Password success
+[07-10-2023 16:25:30.976 INFO] - Click on button Login success
+[07-10-2023 16:25:30.977 INFO] - Click on button Login success
+[07-10-2023 16:25:30.977 INFO] - Click on button Login success
+[07-10-2023 16:26:06.192 INFO] - Verify expected message success
+[07-10-2023 16:26:06.192 INFO] - Verify expected message success
+[07-10-2023 16:26:06.192 INFO] - Verify expected message success
+[07-10-2023 16:26:06.192 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 16:26:07.672 INFO] - Open Home page success
+[07-10-2023 16:26:07.673 INFO] - Open Home page success
+[07-10-2023 16:26:07.673 INFO] - Open Home page success
+[07-10-2023 16:26:09.312 INFO] - Open Login page success
+[07-10-2023 16:26:09.312 INFO] - Open Login page success
+[07-10-2023 16:26:09.312 INFO] - Open Login page success
+[07-10-2023 16:26:10.412 INFO] - Send Key To User name success
+[07-10-2023 16:26:10.412 INFO] - Send Key To  User name success
+[07-10-2023 16:26:10.412 INFO] - Send Key To  User name success
+[07-10-2023 16:26:11.535 INFO] - Send Key To Password success
+[07-10-2023 16:26:11.535 INFO] - Send Key To Password success
+[07-10-2023 16:26:11.535 INFO] - Send Key To Password success
+[07-10-2023 16:26:12.591 INFO] - Click on button Login success
+[07-10-2023 16:26:12.592 INFO] - Click on button Login success
+[07-10-2023 16:26:12.592 INFO] - Click on button Login success
+[07-10-2023 16:26:17.675 INFO] - Verify expected message success
+[07-10-2023 16:26:17.676 INFO] - Verify expected message success
+[07-10-2023 16:26:17.676 INFO] - Verify expected message success
+[07-10-2023 16:26:17.676 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 16:26:18.417 INFO] - Open Home page success
+[07-10-2023 16:26:18.417 INFO] - Open Home page success
+[07-10-2023 16:26:18.417 INFO] - Open Home page success
+[07-10-2023 16:26:19.978 INFO] - Open Login page success
+[07-10-2023 16:26:19.978 INFO] - Open Login page success
+[07-10-2023 16:26:19.978 INFO] - Open Login page success
+[07-10-2023 16:26:21.100 INFO] - Send Key To User name success
+[07-10-2023 16:26:21.101 INFO] - Send Key To  User name success
+[07-10-2023 16:26:21.101 INFO] - Send Key To  User name success
+[07-10-2023 16:26:22.282 INFO] - Send Key To Password success
+[07-10-2023 16:26:22.282 INFO] - Send Key To Password success
+[07-10-2023 16:26:22.283 INFO] - Send Key To Password success
+[07-10-2023 16:26:24.599 INFO] - Click on button Login success
+[07-10-2023 16:26:24.599 INFO] - Click on button Login success
+[07-10-2023 16:26:24.599 INFO] - Click on button Login success
+[07-10-2023 16:27:04.847 INFO] - Verify expected message success
+[07-10-2023 16:27:04.847 INFO] - Verify expected message success
+[07-10-2023 16:27:04.847 INFO] - Verify expected message success
+[07-10-2023 16:27:04.847 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 16:27:05.769 INFO] - Close browser

@@ -1,0 +1,13 @@
+[07-10-2023 14:18:34.472 INFO] - Open browser
+[07-10-2023 14:19:17.857 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 14:19:56.430 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 14:20:35.142 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 14:21:13.704 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 14:21:22.657 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 14:22:33.003 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop FAILED test ----------
+[07-10-2023 14:23:05.167 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop FAILED test ----------
+[07-10-2023 14:23:37.058 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop FAILED test ----------
+[07-10-2023 14:24:09.074 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop FAILED test ----------
+[07-10-2023 14:24:26.315 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop FAILED test ----------
+[07-10-2023 14:24:26.337 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop FAILED test ----------
+[07-10-2023 14:24:27.104 INFO] - Close browser

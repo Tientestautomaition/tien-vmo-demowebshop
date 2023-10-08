@@ -1,9 +1,9 @@
-package com.vmo.nopcommerce.Enviroment;
+package com.vmo.demowebshop.Enviroment;
 
-import com.vmo.nopcommerce.driverFactory.ChromeDriverManager;
-import com.vmo.nopcommerce.driverFactory.ChromeHeadlessDriverManager;
-import com.vmo.nopcommerce.driverFactory.EdgeDriverManager;
-import com.vmo.nopcommerce.driverFactory.FirefoxDriverManager;
+import com.vmo.demowebshop.driverFactory.ChromeDriverManager;
+import com.vmo.demowebshop.driverFactory.ChromeHeadlessDriverManager;
+import com.vmo.demowebshop.driverFactory.EdgeDriverManager;
+import com.vmo.demowebshop.driverFactory.FirefoxDriverManager;
 import org.openqa.selenium.WebDriver;
 
 public class LocalFactory {

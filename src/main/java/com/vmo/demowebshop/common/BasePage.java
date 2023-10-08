@@ -1,4 +1,4 @@
-package com.vmo.nopcommerce.common;
+package com.vmo.demowebshop.common;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
@@ -200,7 +201,6 @@ public class BasePage {
    protected void clickToElement(WebDriver driver, String locator) {
      sleepInSecond(1);
      getWebElement(driver, locator).click();
-       sleepInSecond(1);
     }
 
    protected void sendKeyToElement(WebDriver driver, String locator, String value) {
@@ -373,12 +373,12 @@ public class BasePage {
         action.dragAndDrop(source, target).perform();
     }
 
-   protected void pressKeyboardToElemntByActions(WebDriver driver, String locator, Keys key) {
+   protected void pressKeyboardToElementByActions(WebDriver driver, String locator, Keys key) {
         action = new Actions(driver);
         action.sendKeys(getWebElement(driver, locator), key).perform();
     }
 
-   protected void pressKeyboardToElemnt(WebDriver driver, String locator, Keys key) {
+   protected void pressKeyboardToElement(WebDriver driver, String locator, Keys key) {
         getWebElement(driver, locator).sendKeys(key);
     }
 

@@ -1,25 +1,16 @@
-package com.vmo.nopcommerce.pageobject;
+package com.vmo.demowebshop.pageobject;
 
 import org.openqa.selenium.WebDriver;
 
 public class PageGenerator {
-    public static HomePageObject getHomePageObject(WebDriver driver) {
-        return new HomePageObject(driver);
-    }
 
-    public static RegisterPageObject getRegisterPageObject(WebDriver driver) {
-        return new RegisterPageObject(driver);
-    }
-
-    public static LoginPageObject getLoginPageObject(WebDriver driver) {
+    public static LoginPageObject getLoginObject(WebDriver driver) {
         return new LoginPageObject(driver);
     }
-
-    public static ArticlePageObject getArticleObject(WebDriver driver) {
-        return new ArticlePageObject(driver);
+    public static BookPageObject getBookObject(WebDriver driver) {
+        return new BookPageObject(driver);
+    }   public static CartPageObject getCartPageObject(WebDriver driver) {
+        return new CartPageObject(driver);
     }
 
-    public static LoginPageDemoSourceObject getLoginDemoSourcePage(WebDriver driver) {
-        return new LoginPageDemoSourceObject(driver);
-    }
 }

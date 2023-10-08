@@ -1,4 +1,4 @@
-package com.vmo.nopcommerce.driverFactory;
+package com.vmo.demowebshop.driverFactory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

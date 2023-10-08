@@ -1,4 +1,4 @@
-package com.vmo.nopcommerce.helper;
+package com.vmo.demowebshop.helper;
 
 import org.apache.logging.log4j.core.*;
 import org.apache.logging.log4j.core.appender.AbstractAppender;

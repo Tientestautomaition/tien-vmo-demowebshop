@@ -1,6 +1,6 @@
-package com.vmo.nopcommerce.helper;
+package com.vmo.demowebshop.helper;
 
-import com.vmo.nopcommerce.common.BaseTest;
+import com.vmo.demowebshop.common.BaseTest;
 import io.qameta.allure.Attachment;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

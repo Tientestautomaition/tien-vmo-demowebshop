@@ -1,0 +1,35 @@
+[07-10-2023 16:21:55.174 INFO] - Open browser
+[07-10-2023 16:22:00.803 INFO] - Open Home page success
+[07-10-2023 16:22:00.803 INFO] - Open Home page success
+[07-10-2023 16:22:00.803 INFO] - Open Home page success
+[07-10-2023 16:22:02.429 INFO] - Open Login page success
+[07-10-2023 16:22:02.430 INFO] - Open Login page success
+[07-10-2023 16:22:02.430 INFO] - Open Login page success
+[07-10-2023 16:22:03.525 INFO] - Send Key To User name success
+[07-10-2023 16:22:03.527 INFO] - Send Key To  User name success
+[07-10-2023 16:22:03.529 INFO] - Send Key To  User name success
+[07-10-2023 16:22:04.693 INFO] - Send Key To Password success
+[07-10-2023 16:22:04.694 INFO] - Send Key To Password success
+[07-10-2023 16:22:04.694 INFO] - Send Key To Password success
+[07-10-2023 16:22:06.252 INFO] - Click on button Login success
+[07-10-2023 16:22:06.255 INFO] - Click on button Login success
+[07-10-2023 16:22:06.256 INFO] - Click on button Login success
+[07-10-2023 16:22:41.569 INFO] - Verify expected message success
+[07-10-2023 16:22:41.569 INFO] - Verify expected message success
+[07-10-2023 16:22:41.569 INFO] - Verify expected message success
+[07-10-2023 16:22:41.574 INFO] - ---------- TC_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[07-10-2023 16:22:42.593 INFO] - Open Home page success
+[07-10-2023 16:22:42.594 INFO] - Open Home page success
+[07-10-2023 16:22:42.594 INFO] - Open Home page success
+[07-10-2023 16:22:44.237 INFO] - Open Login page success
+[07-10-2023 16:22:44.237 INFO] - Open Login page success
+[07-10-2023 16:22:44.237 INFO] - Open Login page success
+[07-10-2023 16:22:45.356 INFO] - Send Key To User name success
+[07-10-2023 16:22:45.360 INFO] - Send Key To  User name success
+[07-10-2023 16:22:45.362 INFO] - Send Key To  User name success
+[07-10-2023 16:22:46.504 INFO] - Send Key To Password success
+[07-10-2023 16:22:46.505 INFO] - Send Key To Password success
+[07-10-2023 16:22:46.505 INFO] - Send Key To Password success
+[07-10-2023 16:22:48.088 INFO] - Click on button Login success
+[07-10-2023 16:22:48.089 INFO] - Click on button Login success
+[07-10-2023 16:22:48.089 INFO] - Click on button Login success

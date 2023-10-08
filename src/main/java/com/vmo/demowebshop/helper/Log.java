@@ -1,4 +1,4 @@
-package com.vmo.nopcommerce.helper;
+package com.vmo.demowebshop.helper;
 
 
 import io.qameta.allure.Step;

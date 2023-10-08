@@ -1,4 +1,4 @@
-package com.vmo.nopcommerce.utils;
+package com.vmo.demowebshop.utils;
 
 import java.util.Locale;
 
