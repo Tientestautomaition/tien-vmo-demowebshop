@@ -41,11 +41,9 @@ public class BookPageObject extends BasePage {
         return this;
     }
 
-    public BookPageObject clickOnBooksAddToCart() {
+    public BookPageObject clickOnBooksAddToCartAndVerify() {
         List<WebElement> listElements = getListWebElements(driver, BooksPageUI.BOOKS_PRODUCT1);
         List<String> attributeValuesRate = new ArrayList<>();
-
-
         for (WebElement element : listElements) {
             String valueAttribute = element.getAttribute("title");
             attributeValuesRate.add(valueAttribute);
@@ -59,33 +57,28 @@ public class BookPageObject extends BasePage {
         String xpathHighestRating1 = BooksPageUI.BOOK_DYNAMIC.replace("$", highestRating1);
         String xpathHighestRating2 = BooksPageUI.BOOK_DYNAMIC.replace("$", highestRating2);
 
-        String cartQuantityText0 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY);
+        String cartQuantityText0 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY).substring(1,2);
         int cartQuantity0 = Integer.parseInt(cartQuantityText0);
 
         clickToElement(driver,xpathHighestRating1 );
+        sleepInSecond(1);
+        Assert.assertTrue(isElementDisplay(driver,BooksPageUI.ADD_TO_CART_SUCCESS_MSG));
+        sleepInSecond(3);
 
-        String cartQuantityText1 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY);
+        String cartQuantityText1 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY).substring(1,2);
         int cartQuantity1 = Integer.parseInt(cartQuantityText1);
-        System.out.println("cartQuantity1 = " + cartQuantity1);
         Assert.assertEquals(cartQuantity1 - 1, cartQuantity0);
         sleepInSecond(2);
 
         clickToElement(driver, xpathHighestRating2);
-        sleepInSecond(5);
+        sleepInSecond(1);
+        Assert.assertTrue(isElementDisplay(driver,BooksPageUI.ADD_TO_CART_SUCCESS_MSG));
+        sleepInSecond(3);
 
-        String cartQuantityText2 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY);
+        String cartQuantityText2 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY).substring(1,2);
         int cartQuantity2 = Integer.parseInt(cartQuantityText2);
         Assert.assertEquals(cartQuantity2 - 1, cartQuantity1);
-        sleepInSecond(2);
-        System.out.println("cartQuantity0 = "+ cartQuantity0);
-        System.out.println("cartQuantity1 = " + cartQuantity1);
-        System.out.println("cartQuantity2 = " + cartQuantity2);
-
-        return this;
-    }
-
-    public BookPageObject verifyAppearMsgAddProductToCartSuccess() {
-        Assert.assertTrue(isElementDisplay(driver,BooksPageUI.ADD_TO_CART_SUCCESS_MSG));
+        sleepInSecond(1);
         return this;
     }
     public BookPageObject hoverOnShoppingCartTag() {

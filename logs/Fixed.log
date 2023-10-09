@@ -1833,3 +1833,105 @@
 [09-10-2023 16:33:08.901 INFO] - Open Book page success
 [09-10-2023 16:33:09.038 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
 [09-10-2023 16:33:09.921 INFO] - Close browser
+[09-10-2023 16:59:48.608 INFO] - Open browser
+[09-10-2023 16:59:53.484 INFO] - Open Home page success
+[09-10-2023 16:59:53.484 INFO] - Open Home page success
+[09-10-2023 16:59:53.487 INFO] - Open Home page success
+[09-10-2023 16:59:55.575 INFO] - Open Book page success
+[09-10-2023 16:59:55.576 INFO] - Open Book page success
+[09-10-2023 16:59:55.576 INFO] - Open Book page success
+[09-10-2023 16:59:55.806 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 16:59:56.906 INFO] - Close browser
+[09-10-2023 17:01:28.663 INFO] - Open browser
+[09-10-2023 17:01:32.756 INFO] - Open Home page success
+[09-10-2023 17:01:32.756 INFO] - Open Home page success
+[09-10-2023 17:01:32.757 INFO] - Open Home page success
+[09-10-2023 17:01:34.826 INFO] - Open Book page success
+[09-10-2023 17:01:34.826 INFO] - Open Book page success
+[09-10-2023 17:01:34.826 INFO] - Open Book page success
+[09-10-2023 17:01:42.330 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:01:43.499 INFO] - Close browser
+[09-10-2023 17:03:18.248 INFO] - Open browser
+[09-10-2023 17:03:25.263 INFO] - Open Home page success
+[09-10-2023 17:03:25.267 INFO] - Open Home page success
+[09-10-2023 17:03:25.271 INFO] - Open Home page success
+[09-10-2023 17:03:27.452 INFO] - Open Book page success
+[09-10-2023 17:03:27.453 INFO] - Open Book page success
+[09-10-2023 17:03:27.453 INFO] - Open Book page success
+[09-10-2023 17:03:44.382 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 17:03:45.387 INFO] - Close browser
+[09-10-2023 17:04:39.306 INFO] - Open browser
+[09-10-2023 17:04:43.146 INFO] - Open Home page success
+[09-10-2023 17:04:43.146 INFO] - Open Home page success
+[09-10-2023 17:04:43.147 INFO] - Open Home page success
+[09-10-2023 17:04:45.178 INFO] - Open Book page success
+[09-10-2023 17:04:45.179 INFO] - Open Book page success
+[09-10-2023 17:04:45.179 INFO] - Open Book page success
+[09-10-2023 17:04:46.453 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:04:47.836 INFO] - Close browser
+[09-10-2023 17:08:14.270 INFO] - Open browser
+[09-10-2023 17:08:18.415 INFO] - Open Home page success
+[09-10-2023 17:08:18.415 INFO] - Open Home page success
+[09-10-2023 17:08:18.416 INFO] - Open Home page success
+[09-10-2023 17:08:20.557 INFO] - Open Book page success
+[09-10-2023 17:08:20.558 INFO] - Open Book page success
+[09-10-2023 17:08:20.558 INFO] - Open Book page success
+[09-10-2023 17:08:21.910 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:08:23.534 INFO] - Close browser
+[09-10-2023 17:09:27.173 INFO] - Open browser
+[09-10-2023 17:09:31.555 INFO] - Open Home page success
+[09-10-2023 17:09:31.556 INFO] - Open Home page success
+[09-10-2023 17:09:31.556 INFO] - Open Home page success
+[09-10-2023 17:09:33.758 INFO] - Open Book page success
+[09-10-2023 17:09:33.759 INFO] - Open Book page success
+[09-10-2023 17:09:33.759 INFO] - Open Book page success
+[09-10-2023 17:09:50.705 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 17:09:52.125 INFO] - Close browser
+[09-10-2023 17:11:34.595 INFO] - Open browser
+[09-10-2023 17:11:38.963 INFO] - Open Home page success
+[09-10-2023 17:11:38.965 INFO] - Open Home page success
+[09-10-2023 17:11:38.965 INFO] - Open Home page success
+[09-10-2023 17:11:41.662 INFO] - Open Book page success
+[09-10-2023 17:11:41.663 INFO] - Open Book page success
+[09-10-2023 17:11:41.663 INFO] - Open Book page success
+[09-10-2023 17:11:41.850 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:11:42.879 INFO] - Close browser
+[09-10-2023 17:13:30.949 INFO] - Open browser
+[09-10-2023 17:16:31.488 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:18:33.113 INFO] - Close browser
+[09-10-2023 17:23:34.857 INFO] - Open browser
+[09-10-2023 17:23:39.458 INFO] - Open Home page success
+[09-10-2023 17:23:39.459 INFO] - Open Home page success
+[09-10-2023 17:23:39.459 INFO] - Open Home page success
+[09-10-2023 17:23:41.562 INFO] - Open Book page success
+[09-10-2023 17:23:41.563 INFO] - Open Book page success
+[09-10-2023 17:23:41.563 INFO] - Open Book page success
+[09-10-2023 17:23:42.897 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:23:44.012 INFO] - Close browser
+[09-10-2023 17:25:09.881 INFO] - Open browser
+[09-10-2023 17:25:14.114 INFO] - Open Home page success
+[09-10-2023 17:25:14.114 INFO] - Open Home page success
+[09-10-2023 17:25:14.115 INFO] - Open Home page success
+[09-10-2023 17:25:16.179 INFO] - Open Book page success
+[09-10-2023 17:25:16.180 INFO] - Open Book page success
+[09-10-2023 17:25:16.180 INFO] - Open Book page success
+[09-10-2023 17:25:41.353 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 17:25:42.364 INFO] - Close browser
+[09-10-2023 17:29:42.618 INFO] - Open browser
+[09-10-2023 17:29:47.567 INFO] - Open Home page success
+[09-10-2023 17:29:47.567 INFO] - Open Home page success
+[09-10-2023 17:29:47.567 INFO] - Open Home page success
+[09-10-2023 17:29:49.677 INFO] - Open Book page success
+[09-10-2023 17:29:49.678 INFO] - Open Book page success
+[09-10-2023 17:29:49.678 INFO] - Open Book page success
+[09-10-2023 17:29:57.646 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:29:58.755 INFO] - Close browser
+[09-10-2023 17:31:24.922 INFO] - Open browser
+[09-10-2023 17:31:28.962 INFO] - Open Home page success
+[09-10-2023 17:31:28.963 INFO] - Open Home page success
+[09-10-2023 17:31:28.967 INFO] - Open Home page success
+[09-10-2023 17:31:31.176 INFO] - Open Book page success
+[09-10-2023 17:31:31.176 INFO] - Open Book page success
+[09-10-2023 17:31:31.176 INFO] - Open Book page success
+[09-10-2023 17:31:54.325 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 17:31:55.331 INFO] - Close browser

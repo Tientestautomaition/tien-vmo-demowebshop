@@ -27,8 +27,7 @@ public class BooksProduct extends BaseTest {
             .verifyTitleHomePage("Demo Web Shop")
             .clickToBookTag()
             .verifyTitleBookPage("Demo Web Shop. Books")
-            .clickOnBooksAddToCart()
-            .verifyAppearMsgAddProductToCartSuccess()
+            .clickOnBooksAddToCartAndVerify()
             .hoverOnShoppingCartTag()
             .verifyProductAreAdded();
 
