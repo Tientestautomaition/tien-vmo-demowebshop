@@ -1,0 +1,9 @@
+[09-10-2023 16:31:35.260 INFO] - Open browser
+[09-10-2023 16:31:38.882 INFO] - Open Home page success
+[09-10-2023 16:31:38.882 INFO] - Open Home page success
+[09-10-2023 16:31:38.882 INFO] - Open Home page success
+[09-10-2023 16:31:40.967 INFO] - Open Book page success
+[09-10-2023 16:31:40.967 INFO] - Open Book page success
+[09-10-2023 16:31:40.967 INFO] - Open Book page success
+[09-10-2023 16:31:41.097 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 16:31:41.964 INFO] - Close browser

@@ -12,23 +12,25 @@ import org.testng.annotations.Test;
 @Epic("demoWebShop")
 @Feature("AddToCart")
 @Story("AddBooksToCartSuccessfully")
-public class Booksproduct extends BaseTest {
+public class BooksProduct extends BaseTest {
+
     BookPageObject bookPage;
 
     @BeforeMethod
     public void setUp() {
         bookPage = PageGenerator.getBookObject(driver);
     }
+
     @Test()
-    public void TC_02_Verify_Login_To_Demo_Web_Shop() {
+    public void TC_02_Verify_Add_Books_To_Card() {
         bookPage.openHomepage("https://demowebshop.tricentis.com/")
-                .verifyTitleHomePage("Demo Web Shop")
-                .clickToBookTag()
-                .verifyTitleBookPage("Demo Web Shop. Books")
-                .clickOnBooksAddToCart()
-                .verifyAppearMsgAddProductToCartSuccess()
-                .hoverOnShoppingCartTag()
-                .verifyProductAreAdded();
+            .verifyTitleHomePage("Demo Web Shop")
+            .clickToBookTag()
+            .verifyTitleBookPage("Demo Web Shop. Books")
+            .clickOnBooksAddToCart()
+            .verifyAppearMsgAddProductToCartSuccess()
+            .hoverOnShoppingCartTag()
+            .verifyProductAreAdded();
 
     }
 

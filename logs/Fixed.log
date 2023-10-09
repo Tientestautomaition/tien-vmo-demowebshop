@@ -1574,3 +1574,262 @@
 [09-10-2023 13:44:32.015 INFO] - Click on button Login success
 [09-10-2023 13:44:32.037 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop FAILED test ----------
 [09-10-2023 13:44:32.945 INFO] - Close browser
+[09-10-2023 13:49:07.032 INFO] - Open browser
+[09-10-2023 13:49:11.805 INFO] - Open Home page success
+[09-10-2023 13:49:11.805 INFO] - Open Home page success
+[09-10-2023 13:49:11.805 INFO] - Open Home page success
+[09-10-2023 13:49:13.393 INFO] - Open Login page success
+[09-10-2023 13:49:13.393 INFO] - Open Login page success
+[09-10-2023 13:49:13.393 INFO] - Open Login page success
+[09-10-2023 13:49:14.455 INFO] - Send Key To User name success
+[09-10-2023 13:49:14.455 INFO] - Send Key To  User name success
+[09-10-2023 13:49:14.455 INFO] - Send Key To  User name success
+[09-10-2023 13:49:15.526 INFO] - Send Key To Password success
+[09-10-2023 13:49:15.526 INFO] - Send Key To Password success
+[09-10-2023 13:49:15.527 INFO] - Send Key To Password success
+[09-10-2023 13:49:17.068 INFO] - Click on button Login success
+[09-10-2023 13:49:17.068 INFO] - Click on button Login success
+[09-10-2023 13:49:17.068 INFO] - Click on button Login success
+[09-10-2023 13:49:17.107 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 13:49:17.905 INFO] - Open Home page success
+[09-10-2023 13:49:17.906 INFO] - Open Home page success
+[09-10-2023 13:49:17.906 INFO] - Open Home page success
+[09-10-2023 13:49:19.450 INFO] - Open Login page success
+[09-10-2023 13:49:19.450 INFO] - Open Login page success
+[09-10-2023 13:49:19.451 INFO] - Open Login page success
+[09-10-2023 13:49:20.516 INFO] - Send Key To User name success
+[09-10-2023 13:49:20.516 INFO] - Send Key To  User name success
+[09-10-2023 13:49:20.516 INFO] - Send Key To  User name success
+[09-10-2023 13:49:21.584 INFO] - Send Key To Password success
+[09-10-2023 13:49:21.584 INFO] - Send Key To Password success
+[09-10-2023 13:49:21.584 INFO] - Send Key To Password success
+[09-10-2023 13:49:23.659 INFO] - Click on button Login success
+[09-10-2023 13:49:23.659 INFO] - Click on button Login success
+[09-10-2023 13:49:23.659 INFO] - Click on button Login success
+[09-10-2023 13:49:23.682 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 13:49:24.419 INFO] - Open Home page success
+[09-10-2023 13:49:24.420 INFO] - Open Home page success
+[09-10-2023 13:49:24.420 INFO] - Open Home page success
+[09-10-2023 13:49:25.990 INFO] - Open Login page success
+[09-10-2023 13:49:25.991 INFO] - Open Login page success
+[09-10-2023 13:49:25.991 INFO] - Open Login page success
+[09-10-2023 13:49:27.050 INFO] - Send Key To User name success
+[09-10-2023 13:49:27.050 INFO] - Send Key To  User name success
+[09-10-2023 13:49:27.050 INFO] - Send Key To  User name success
+[09-10-2023 13:49:28.138 INFO] - Send Key To Password success
+[09-10-2023 13:49:28.138 INFO] - Send Key To Password success
+[09-10-2023 13:49:28.138 INFO] - Send Key To Password success
+[09-10-2023 13:49:29.595 INFO] - Click on button Login success
+[09-10-2023 13:49:29.596 INFO] - Click on button Login success
+[09-10-2023 13:49:29.596 INFO] - Click on button Login success
+[09-10-2023 13:49:29.988 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 13:49:30.724 INFO] - Open Home page success
+[09-10-2023 13:49:30.725 INFO] - Open Home page success
+[09-10-2023 13:49:30.725 INFO] - Open Home page success
+[09-10-2023 13:49:33.025 INFO] - Open Login page success
+[09-10-2023 13:49:33.025 INFO] - Open Login page success
+[09-10-2023 13:49:33.026 INFO] - Open Login page success
+[09-10-2023 13:49:34.094 INFO] - Send Key To User name success
+[09-10-2023 13:49:34.094 INFO] - Send Key To  User name success
+[09-10-2023 13:49:34.094 INFO] - Send Key To  User name success
+[09-10-2023 13:49:35.160 INFO] - Send Key To Password success
+[09-10-2023 13:49:35.160 INFO] - Send Key To Password success
+[09-10-2023 13:49:35.160 INFO] - Send Key To Password success
+[09-10-2023 13:49:36.673 INFO] - Click on button Login success
+[09-10-2023 13:49:36.673 INFO] - Click on button Login success
+[09-10-2023 13:49:36.673 INFO] - Click on button Login success
+[09-10-2023 13:49:36.689 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 13:49:37.382 INFO] - Open Home page success
+[09-10-2023 13:49:37.382 INFO] - Open Home page success
+[09-10-2023 13:49:37.382 INFO] - Open Home page success
+[09-10-2023 13:49:38.902 INFO] - Open Login page success
+[09-10-2023 13:49:38.902 INFO] - Open Login page success
+[09-10-2023 13:49:38.903 INFO] - Open Login page success
+[09-10-2023 13:49:39.952 INFO] - Send Key To User name success
+[09-10-2023 13:49:39.952 INFO] - Send Key To  User name success
+[09-10-2023 13:49:39.953 INFO] - Send Key To  User name success
+[09-10-2023 13:49:41.020 INFO] - Send Key To Password success
+[09-10-2023 13:49:41.020 INFO] - Send Key To Password success
+[09-10-2023 13:49:41.020 INFO] - Send Key To Password success
+[09-10-2023 13:49:42.060 INFO] - Click on button Login success
+[09-10-2023 13:49:42.061 INFO] - Click on button Login success
+[09-10-2023 13:49:42.061 INFO] - Click on button Login success
+[09-10-2023 13:49:42.079 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 13:49:43.285 INFO] - Open Home page success
+[09-10-2023 13:49:43.285 INFO] - Open Home page success
+[09-10-2023 13:49:43.285 INFO] - Open Home page success
+[09-10-2023 13:49:44.812 INFO] - Open Login page success
+[09-10-2023 13:49:44.812 INFO] - Open Login page success
+[09-10-2023 13:49:44.812 INFO] - Open Login page success
+[09-10-2023 13:49:45.906 INFO] - Send Key To User name success
+[09-10-2023 13:49:45.906 INFO] - Send Key To  User name success
+[09-10-2023 13:49:45.906 INFO] - Send Key To  User name success
+[09-10-2023 13:49:46.985 INFO] - Send Key To Password success
+[09-10-2023 13:49:46.985 INFO] - Send Key To Password success
+[09-10-2023 13:49:46.985 INFO] - Send Key To Password success
+[09-10-2023 13:49:49.710 INFO] - Click on button Login success
+[09-10-2023 13:49:49.710 INFO] - Click on button Login success
+[09-10-2023 13:49:49.711 INFO] - Click on button Login success
+[09-10-2023 13:49:49.733 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 13:49:50.538 INFO] - Close browser
+[09-10-2023 14:25:06.038 INFO] - Open browser
+[09-10-2023 14:25:10.995 INFO] - Open Home page success
+[09-10-2023 14:25:10.995 INFO] - Open Home page success
+[09-10-2023 14:25:10.995 INFO] - Open Home page success
+[09-10-2023 14:25:12.583 INFO] - Open Login page success
+[09-10-2023 14:25:12.583 INFO] - Open Login page success
+[09-10-2023 14:25:12.583 INFO] - Open Login page success
+[09-10-2023 14:25:13.646 INFO] - Send Key To User name success
+[09-10-2023 14:25:13.646 INFO] - Send Key To  User name success
+[09-10-2023 14:25:13.646 INFO] - Send Key To  User name success
+[09-10-2023 14:25:14.733 INFO] - Send Key To Password success
+[09-10-2023 14:25:14.733 INFO] - Send Key To Password success
+[09-10-2023 14:25:14.733 INFO] - Send Key To Password success
+[09-10-2023 14:25:16.302 INFO] - Click on button Login success
+[09-10-2023 14:25:16.302 INFO] - Click on button Login success
+[09-10-2023 14:25:16.302 INFO] - Click on button Login success
+[09-10-2023 14:25:16.337 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 14:25:17.094 INFO] - Open Home page success
+[09-10-2023 14:25:17.094 INFO] - Open Home page success
+[09-10-2023 14:25:17.094 INFO] - Open Home page success
+[09-10-2023 14:25:18.616 INFO] - Open Login page success
+[09-10-2023 14:25:18.616 INFO] - Open Login page success
+[09-10-2023 14:25:18.616 INFO] - Open Login page success
+[09-10-2023 14:25:19.678 INFO] - Send Key To User name success
+[09-10-2023 14:25:19.678 INFO] - Send Key To  User name success
+[09-10-2023 14:25:19.678 INFO] - Send Key To  User name success
+[09-10-2023 14:25:20.755 INFO] - Send Key To Password success
+[09-10-2023 14:25:20.755 INFO] - Send Key To Password success
+[09-10-2023 14:25:20.755 INFO] - Send Key To Password success
+[09-10-2023 14:25:22.244 INFO] - Click on button Login success
+[09-10-2023 14:25:22.244 INFO] - Click on button Login success
+[09-10-2023 14:25:22.245 INFO] - Click on button Login success
+[09-10-2023 14:25:22.321 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 14:25:23.017 INFO] - Open Home page success
+[09-10-2023 14:25:23.017 INFO] - Open Home page success
+[09-10-2023 14:25:23.017 INFO] - Open Home page success
+[09-10-2023 14:25:24.577 INFO] - Open Login page success
+[09-10-2023 14:25:24.577 INFO] - Open Login page success
+[09-10-2023 14:25:24.577 INFO] - Open Login page success
+[09-10-2023 14:25:25.630 INFO] - Send Key To User name success
+[09-10-2023 14:25:25.630 INFO] - Send Key To  User name success
+[09-10-2023 14:25:25.630 INFO] - Send Key To  User name success
+[09-10-2023 14:25:26.706 INFO] - Send Key To Password success
+[09-10-2023 14:25:26.706 INFO] - Send Key To Password success
+[09-10-2023 14:25:26.706 INFO] - Send Key To Password success
+[09-10-2023 14:25:28.361 INFO] - Click on button Login success
+[09-10-2023 14:25:28.361 INFO] - Click on button Login success
+[09-10-2023 14:25:28.361 INFO] - Click on button Login success
+[09-10-2023 14:25:28.377 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 14:25:29.115 INFO] - Open Home page success
+[09-10-2023 14:25:29.115 INFO] - Open Home page success
+[09-10-2023 14:25:29.116 INFO] - Open Home page success
+[09-10-2023 14:25:30.635 INFO] - Open Login page success
+[09-10-2023 14:25:30.635 INFO] - Open Login page success
+[09-10-2023 14:25:30.635 INFO] - Open Login page success
+[09-10-2023 14:25:31.703 INFO] - Send Key To User name success
+[09-10-2023 14:25:31.704 INFO] - Send Key To  User name success
+[09-10-2023 14:25:31.705 INFO] - Send Key To  User name success
+[09-10-2023 14:25:32.789 INFO] - Send Key To Password success
+[09-10-2023 14:25:32.790 INFO] - Send Key To Password success
+[09-10-2023 14:25:32.790 INFO] - Send Key To Password success
+[09-10-2023 14:25:34.284 INFO] - Click on button Login success
+[09-10-2023 14:25:34.284 INFO] - Click on button Login success
+[09-10-2023 14:25:34.284 INFO] - Click on button Login success
+[09-10-2023 14:25:34.340 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 14:25:35.069 INFO] - Open Home page success
+[09-10-2023 14:25:35.069 INFO] - Open Home page success
+[09-10-2023 14:25:35.069 INFO] - Open Home page success
+[09-10-2023 14:25:36.596 INFO] - Open Login page success
+[09-10-2023 14:25:36.596 INFO] - Open Login page success
+[09-10-2023 14:25:36.596 INFO] - Open Login page success
+[09-10-2023 14:25:37.653 INFO] - Send Key To User name success
+[09-10-2023 14:25:37.653 INFO] - Send Key To  User name success
+[09-10-2023 14:25:37.653 INFO] - Send Key To  User name success
+[09-10-2023 14:25:38.723 INFO] - Send Key To Password success
+[09-10-2023 14:25:38.723 INFO] - Send Key To Password success
+[09-10-2023 14:25:38.723 INFO] - Send Key To Password success
+[09-10-2023 14:25:39.788 INFO] - Click on button Login success
+[09-10-2023 14:25:39.788 INFO] - Click on button Login success
+[09-10-2023 14:25:39.788 INFO] - Click on button Login success
+[09-10-2023 14:25:39.806 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 14:25:40.613 INFO] - Open Home page success
+[09-10-2023 14:25:40.613 INFO] - Open Home page success
+[09-10-2023 14:25:40.613 INFO] - Open Home page success
+[09-10-2023 14:25:42.339 INFO] - Open Login page success
+[09-10-2023 14:25:42.339 INFO] - Open Login page success
+[09-10-2023 14:25:42.339 INFO] - Open Login page success
+[09-10-2023 14:25:43.398 INFO] - Send Key To User name success
+[09-10-2023 14:25:43.398 INFO] - Send Key To  User name success
+[09-10-2023 14:25:43.398 INFO] - Send Key To  User name success
+[09-10-2023 14:25:44.496 INFO] - Send Key To Password success
+[09-10-2023 14:25:44.496 INFO] - Send Key To Password success
+[09-10-2023 14:25:44.496 INFO] - Send Key To Password success
+[09-10-2023 14:25:47.347 INFO] - Click on button Login success
+[09-10-2023 14:25:47.347 INFO] - Click on button Login success
+[09-10-2023 14:25:47.348 INFO] - Click on button Login success
+[09-10-2023 14:25:47.375 INFO] - ---------- TC_01_Verify_Login_To_Demo_Web_Shop SUCCESS test ----------
+[09-10-2023 14:25:48.219 INFO] - Close browser
+[09-10-2023 15:34:47.610 INFO] - Open browser
+[09-10-2023 15:34:51.381 INFO] - Open Home page success
+[09-10-2023 15:34:51.383 INFO] - Open Home page success
+[09-10-2023 15:34:51.383 INFO] - Open Home page success
+[09-10-2023 15:34:53.376 INFO] - Open Book page success
+[09-10-2023 15:34:53.376 INFO] - Open Book page success
+[09-10-2023 15:34:53.376 INFO] - Open Book page success
+[09-10-2023 15:34:53.540 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 15:34:54.363 INFO] - Close browser
+[09-10-2023 15:45:22.358 INFO] - Open browser
+[09-10-2023 15:45:26.817 INFO] - Open Home page success
+[09-10-2023 15:45:26.817 INFO] - Open Home page success
+[09-10-2023 15:45:26.818 INFO] - Open Home page success
+[09-10-2023 15:45:28.818 INFO] - Open Book page success
+[09-10-2023 15:45:28.818 INFO] - Open Book page success
+[09-10-2023 15:45:28.818 INFO] - Open Book page success
+[09-10-2023 15:45:28.977 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 15:45:29.850 INFO] - Close browser
+[09-10-2023 16:13:15.999 INFO] - Open browser
+[09-10-2023 16:13:19.994 INFO] - Open Home page success
+[09-10-2023 16:13:19.995 INFO] - Open Home page success
+[09-10-2023 16:13:19.995 INFO] - Open Home page success
+[09-10-2023 16:13:22.258 INFO] - Open Book page success
+[09-10-2023 16:13:22.258 INFO] - Open Book page success
+[09-10-2023 16:13:22.259 INFO] - Open Book page success
+[09-10-2023 16:13:22.359 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 16:13:23.171 INFO] - Close browser
+[09-10-2023 16:29:10.346 INFO] - Open browser
+[09-10-2023 16:29:15.449 INFO] - Open Home page success
+[09-10-2023 16:29:15.450 INFO] - Open Home page success
+[09-10-2023 16:29:15.450 INFO] - Open Home page success
+[09-10-2023 16:29:17.595 INFO] - Open Book page success
+[09-10-2023 16:29:17.595 INFO] - Open Book page success
+[09-10-2023 16:29:17.595 INFO] - Open Book page success
+[09-10-2023 16:29:17.719 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 16:29:18.540 INFO] - Close browser
+[09-10-2023 16:31:35.260 INFO] - Open browser
+[09-10-2023 16:31:38.882 INFO] - Open Home page success
+[09-10-2023 16:31:38.882 INFO] - Open Home page success
+[09-10-2023 16:31:38.882 INFO] - Open Home page success
+[09-10-2023 16:31:40.967 INFO] - Open Book page success
+[09-10-2023 16:31:40.967 INFO] - Open Book page success
+[09-10-2023 16:31:40.967 INFO] - Open Book page success
+[09-10-2023 16:31:41.097 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 16:31:41.964 INFO] - Close browser
+[09-10-2023 16:32:03.997 INFO] - Open browser
+[09-10-2023 16:32:08.089 INFO] - Open Home page success
+[09-10-2023 16:32:08.090 INFO] - Open Home page success
+[09-10-2023 16:32:08.090 INFO] - Open Home page success
+[09-10-2023 16:32:10.111 INFO] - Open Book page success
+[09-10-2023 16:32:10.111 INFO] - Open Book page success
+[09-10-2023 16:32:10.111 INFO] - Open Book page success
+[09-10-2023 16:32:10.240 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 16:32:11.090 INFO] - Close browser
+[09-10-2023 16:33:02.629 INFO] - Open browser
+[09-10-2023 16:33:06.861 INFO] - Open Home page success
+[09-10-2023 16:33:06.862 INFO] - Open Home page success
+[09-10-2023 16:33:06.862 INFO] - Open Home page success
+[09-10-2023 16:33:08.900 INFO] - Open Book page success
+[09-10-2023 16:33:08.900 INFO] - Open Book page success
+[09-10-2023 16:33:08.901 INFO] - Open Book page success
+[09-10-2023 16:33:09.038 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 16:33:09.921 INFO] - Close browser
