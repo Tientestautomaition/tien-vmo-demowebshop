@@ -57,32 +57,8 @@ public class LoginPageObject extends BasePage {
         return this;
     }
 
-        public LoginPageObject verifyExpectedMsg(String expectedMsg) {
-        boolean login1MsgUndisplayed = isElementUndisplayed(driver, LoginPageUI.LOGIN1_MSG);
-        boolean login2MsgUndisplayed = isElementUndisplayed(driver, LoginPageUI.LOGIN2_MSG);
-        boolean login2MsDisplayed = isElementDisplay(driver, LoginPageUI.LOGIN2_MSG);
-
-        if (login1MsgUndisplayed && login2MsgUndisplayed) {
-            Assert.assertTrue(isElementDisplay(driver,LoginPageUI.LOGOUT_TAG));
-        }else if (login2MsDisplayed) {
-                Assert.assertEquals(getTextElement(driver, LoginPageUI.LOGIN2_MSG), expectedMsg);
-
-            } else {
-                Assert.assertEquals(getTextElement(driver, LoginPageUI.LOGIN1_MSG), expectedMsg);
-            }
-          Log.info("Verify expected message success");
-        Log.allure("Verify expected message success");
+    public LoginPageObject verifyExpectedMsg(String expectedMsg) {
+        Assert.assertTrue(isElementDisplay(driver, LoginPageUI.EXPECTED_MSG.replace("$",expectedMsg)));
         return this;
     }
-//    public LoginPageObject verifyExpectedMsg(String expectedMsg) {
-//        boolean login1MsgUndisplayed = isElementUndisplayed(driver, LoginPageUI.LOGIN1_MSG);
-//        boolean login2MsgUndisplayed = isElementUndisplayed(driver, LoginPageUI.LOGIN2_MSG);
-//        boolean login2MsDisplayed = isElementDisplay(driver, LoginPageUI.LOGIN2_MSG);
-//
-//        Assert.assertTrue((login1MsgUndisplayed && login2MsgUndisplayed) || login2MsDisplayed);
-//        Assert.assertEquals(login2MsDisplayed ? getTextElement(driver, LoginPageUI.LOGIN2_MSG) : getTextElement(driver, LoginPageUI.LOGIN1_MSG), expectedMsg);
-//        Log.info("Verify expected message success");
-//        Log.allure("Verify expected message success");
-//        return this;
-//    }
 }

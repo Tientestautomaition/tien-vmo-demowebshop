@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 @Epic("demoWebShop")
 @Feature("AddToCart")
 @Story("AddBooksToCartSuccessfully")
-public class Book extends BaseTest {
+public class Booksproduct extends BaseTest {
     BookPageObject bookPage;
 
     @BeforeMethod
