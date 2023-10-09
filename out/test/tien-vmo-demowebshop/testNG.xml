@@ -4,7 +4,7 @@
   <test name="Params">
     <parameter name="browser" value="chrome"/>
       <classes>
-        <class name="com.automation.fresher.demowebshop.feature.Login.LoginDemoWebShop"></class>
+        <class name="com.automation.fresher.demowebshop.feature.Login.LoginDemoWebShop"/>
     </classes>
   </test>
 </suite>

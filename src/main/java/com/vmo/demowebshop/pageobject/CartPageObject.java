@@ -51,9 +51,6 @@ public class CartPageObject extends BasePage {
     public CartPageObject clickOnCheckboxRemoveProduct(){
         List<WebElement> listElements = getListWebElements(driver, CartPageUI.CHECKBOX_PRODUCT_REMOVE_ON_CART);
         List<String> listXpathCheckBox = new ArrayList<>();
-
-
-        uncheckToDefaultCheckbox(driver,)
         return this;
     }
 }
