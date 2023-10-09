@@ -21,10 +21,16 @@ public class RemoveProductFromCart extends BaseTest {
         cartPage = PageGenerator.getCartPageObject(driver);
     }
     @Test()
-    public void TC_02_Verify_Login_To_Demo_Web_Shop() {
+    public void TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart() {
         cartPage.openHomepage("https://demowebshop.tricentis.com/")
-                .verifyTitleHomePage("Demo Web Shop");
-
+                .verifyTitleHomePage("Demo Web Shop")
+                .verifyAppearMsgAddProductToCartSuccess()
+                .clickOnShoppingCartTag()
+                .verifyUserInCartPage("Demo Web Shop. Shopping Cart")
+                .clickOnCheckboxRemoveProduct()
+                .verifyCheckboxRemoveProductIsSelected()
+                .verifyCheckboxRemoveProductIsSelected()
+                .clickOnUpdateToCartAndVerifyDecreasesQuantity();
 }}
 
 

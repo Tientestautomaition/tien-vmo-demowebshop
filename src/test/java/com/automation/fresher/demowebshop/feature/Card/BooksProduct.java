@@ -30,9 +30,6 @@ public class BooksProduct extends BaseTest {
             .clickOnBooksAddToCartAndVerify()
             .hoverOnShoppingCartTag()
             .verifyProductAreAdded();
-
     }
-
-
 }
 

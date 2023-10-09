@@ -1,0 +1,18 @@
+[09-10-2023 22:27:50.159 INFO] - Open browser
+[09-10-2023 22:27:58.030 INFO] - Open Home page success
+[09-10-2023 22:27:58.031 INFO] - Open Home page success
+[09-10-2023 22:27:58.031 INFO] - Open Home page success
+[09-10-2023 22:28:00.145 INFO] - Click on product 1 success
+[09-10-2023 22:28:00.145 INFO] - Click on product 1 success
+[09-10-2023 22:28:00.145 INFO] - Click on product 1 success
+[09-10-2023 22:28:06.351 INFO] - Click on product 2 success
+[09-10-2023 22:28:06.352 INFO] - Click on product 2 success
+[09-10-2023 22:28:06.353 INFO] - Click on product 2 success
+[09-10-2023 22:28:12.590 INFO] - Click on product 2 success
+[09-10-2023 22:28:12.590 INFO] - Click on product 2 success
+[09-10-2023 22:28:12.590 INFO] - Click on product 2 success
+[09-10-2023 22:28:16.698 INFO] - Verify increases product 
+[09-10-2023 22:28:16.699 INFO] - Verify increases product
+[09-10-2023 22:28:16.699 INFO] - Verify increases product
+[09-10-2023 22:28:16.707 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart SUCCESS test ----------
+[09-10-2023 22:28:18.141 INFO] - Close browser

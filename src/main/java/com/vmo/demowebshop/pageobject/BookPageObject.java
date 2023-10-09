@@ -61,24 +61,26 @@ public class BookPageObject extends BasePage {
         int cartQuantity0 = Integer.parseInt(cartQuantityText0);
 
         clickToElement(driver,xpathHighestRating1 );
-        sleepInSecond(1);
+        Log.info("Click on book 1 success");
+        Log.allure("Click on book 1 success");
         Assert.assertTrue(isElementDisplay(driver,BooksPageUI.ADD_TO_CART_SUCCESS_MSG));
-        sleepInSecond(3);
+        sleepInSecond(4);
 
         String cartQuantityText1 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY).substring(1,2);
         int cartQuantity1 = Integer.parseInt(cartQuantityText1);
         Assert.assertEquals(cartQuantity1 - 1, cartQuantity0);
-        sleepInSecond(2);
 
         clickToElement(driver, xpathHighestRating2);
-        sleepInSecond(1);
+        Log.info("Click on book 2 success");
+        Log.allure("Click on book 2 success");
         Assert.assertTrue(isElementDisplay(driver,BooksPageUI.ADD_TO_CART_SUCCESS_MSG));
-        sleepInSecond(3);
+        sleepInSecond(4);
 
         String cartQuantityText2 = getTextElement(driver, BooksPageUI.SHOPPING_CART_QUANTITY).substring(1,2);
         int cartQuantity2 = Integer.parseInt(cartQuantityText2);
         Assert.assertEquals(cartQuantity2 - 1, cartQuantity1);
-        sleepInSecond(1);
+        Log.info("Verify increases product ");
+        Log.allure("Verify increases product");
         return this;
     }
     public BookPageObject hoverOnShoppingCartTag() {

@@ -1,0 +1,33 @@
+[10-10-2023 00:12:29.577 INFO] - Open browser
+[10-10-2023 00:12:33.281 INFO] - Open Home page success
+[10-10-2023 00:12:33.281 INFO] - Open Home page success
+[10-10-2023 00:12:33.282 INFO] - Open Home page success
+[10-10-2023 00:12:37.475 INFO] - User in cart page
+[10-10-2023 00:12:37.476 INFO] - User in cart page
+[10-10-2023 00:12:37.477 INFO] - User in cart page
+[10-10-2023 00:12:39.626 INFO] - Click on product  success
+[10-10-2023 00:12:39.627 INFO] - Click on product  success
+[10-10-2023 00:12:39.628 INFO] - Click on product  success
+[10-10-2023 00:12:43.814 INFO] - Verify quantity increases 
+[10-10-2023 00:12:43.814 INFO] - Verify quantity increases
+[10-10-2023 00:12:43.815 INFO] - Verify quantity increases
+[10-10-2023 00:12:46.580 INFO] - User in cart page
+[10-10-2023 00:12:46.581 INFO] - User in cart page
+[10-10-2023 00:12:46.581 INFO] - User in cart page
+[10-10-2023 00:12:48.652 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:48.652 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:48.652 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:48.678 INFO] - verifyCheckboxRemoveProductIsSelected success
+[10-10-2023 00:12:48.679 INFO] - verifyCheckboxRemoveProductIsSelected success
+[10-10-2023 00:12:48.679 INFO] - verifyCheckboxRemoveProductIsSelected success
+[10-10-2023 00:12:52.491 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:52.492 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:52.492 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:52.509 INFO] - User in Check Out page
+[10-10-2023 00:12:52.510 INFO] - User in Check Out page
+[10-10-2023 00:12:52.510 INFO] - User in Check Out page
+[10-10-2023 00:12:56.067 INFO] - clickOnCheckOuAsGuessButton success
+[10-10-2023 00:12:56.069 INFO] - clickOnCheckOuAsGuessButton success
+[10-10-2023 00:12:56.070 INFO] - clickOnCheckOuAsGuessButton success
+[10-10-2023 00:12:56.085 INFO] - ---------- TC_04_Verify_Buy_Item_Successfully SUCCESS test ----------
+[10-10-2023 00:12:57.127 INFO] - Close browser

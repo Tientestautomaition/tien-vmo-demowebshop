@@ -1,0 +1,10 @@
+[09-10-2023 18:14:53.096 INFO] - Open browser
+[09-10-2023 18:14:57.357 INFO] - Open Home page success
+[09-10-2023 18:14:57.357 INFO] - Open Home page success
+[09-10-2023 18:14:57.357 INFO] - Open Home page success
+[09-10-2023 18:14:59.502 INFO] - Click on book 1 success
+[09-10-2023 18:14:59.503 INFO] - Click on book 1 success
+[09-10-2023 18:14:59.503 INFO] - Click on book 1 success
+[09-10-2023 18:15:08.916 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 18:15:08.952 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 18:15:09.837 INFO] - Close browser

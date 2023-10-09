@@ -1,0 +1,30 @@
+[09-10-2023 22:56:25.166 INFO] - Open browser
+[09-10-2023 22:56:29.678 INFO] - Open Home page success
+[09-10-2023 22:56:29.679 INFO] - Open Home page success
+[09-10-2023 22:56:29.679 INFO] - Open Home page success
+[09-10-2023 22:56:31.796 INFO] - Click on product 1 success
+[09-10-2023 22:56:31.798 INFO] - Click on product 1 success
+[09-10-2023 22:56:31.800 INFO] - Click on product 1 success
+[09-10-2023 22:56:38.042 INFO] - Click on product 2 success
+[09-10-2023 22:56:38.045 INFO] - Click on product 2 success
+[09-10-2023 22:56:38.047 INFO] - Click on product 2 success
+[09-10-2023 22:56:44.225 INFO] - Click on product 2 success
+[09-10-2023 22:56:44.226 INFO] - Click on product 2 success
+[09-10-2023 22:56:44.226 INFO] - Click on product 2 success
+[09-10-2023 22:56:48.291 INFO] - Verify increases product 
+[09-10-2023 22:56:48.291 INFO] - Verify increases product
+[09-10-2023 22:56:48.291 INFO] - Verify increases product
+[09-10-2023 22:56:51.119 INFO] - User in cart page
+[09-10-2023 22:56:51.120 INFO] - User in cart page
+[09-10-2023 22:56:51.121 INFO] - User in cart page
+[09-10-2023 22:56:53.211 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:53.214 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:53.215 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:53.284 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:56:53.285 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:56:53.285 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:56:55.336 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:55.337 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:55.338 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:55.394 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 22:56:56.535 INFO] - Close browser

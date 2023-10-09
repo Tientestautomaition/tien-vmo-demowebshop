@@ -1935,3 +1935,318 @@
 [09-10-2023 17:31:31.176 INFO] - Open Book page success
 [09-10-2023 17:31:54.325 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
 [09-10-2023 17:31:55.331 INFO] - Close browser
+[09-10-2023 17:52:15.888 INFO] - Open browser
+[09-10-2023 17:52:20.202 INFO] - Open Home page success
+[09-10-2023 17:52:20.202 INFO] - Open Home page success
+[09-10-2023 17:52:20.206 INFO] - Open Home page success
+[09-10-2023 17:52:23.330 INFO] - Open Book page success
+[09-10-2023 17:52:23.331 INFO] - Open Book page success
+[09-10-2023 17:52:23.332 INFO] - Open Book page success
+[09-10-2023 17:52:34.239 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:52:35.251 INFO] - Close browser
+[09-10-2023 17:58:07.266 INFO] - Open browser
+[09-10-2023 17:58:12.305 INFO] - Open Home page success
+[09-10-2023 17:58:12.306 INFO] - Open Home page success
+[09-10-2023 17:58:12.306 INFO] - Open Home page success
+[09-10-2023 17:58:15.538 INFO] - Open Book page success
+[09-10-2023 17:58:15.539 INFO] - Open Book page success
+[09-10-2023 17:58:15.539 INFO] - Open Book page success
+[09-10-2023 17:58:26.530 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 17:58:27.523 INFO] - Close browser
+[09-10-2023 17:59:41.034 INFO] - Open browser
+[09-10-2023 17:59:45.301 INFO] - Open Home page success
+[09-10-2023 17:59:45.308 INFO] - Open Home page success
+[09-10-2023 17:59:45.309 INFO] - Open Home page success
+[09-10-2023 17:59:48.385 INFO] - Open Book page success
+[09-10-2023 17:59:48.386 INFO] - Open Book page success
+[09-10-2023 17:59:48.386 INFO] - Open Book page success
+[09-10-2023 17:59:50.684 INFO] - Click on book 1 success
+[09-10-2023 17:59:59.912 INFO] - ---------- TC_02_Verify_Add_Books_To_Card FAILED test ----------
+[09-10-2023 18:00:01.001 INFO] - Close browser
+[09-10-2023 18:01:15.816 INFO] - Open browser
+[09-10-2023 18:01:19.945 INFO] - Open Home page success
+[09-10-2023 18:01:19.947 INFO] - Open Home page success
+[09-10-2023 18:01:19.950 INFO] - Open Home page success
+[09-10-2023 18:01:23.025 INFO] - Open Book page success
+[09-10-2023 18:01:23.026 INFO] - Open Book page success
+[09-10-2023 18:01:23.027 INFO] - Open Book page success
+[09-10-2023 18:01:25.320 INFO] - Click on book 1 success
+[09-10-2023 18:01:48.152 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 18:01:49.097 INFO] - Close browser
+[09-10-2023 18:04:41.331 INFO] - Open browser
+[09-10-2023 18:04:45.503 INFO] - Open Home page success
+[09-10-2023 18:04:45.504 INFO] - Open Home page success
+[09-10-2023 18:04:45.504 INFO] - Open Home page success
+[09-10-2023 18:04:48.470 INFO] - Open Book page success
+[09-10-2023 18:04:48.470 INFO] - Open Book page success
+[09-10-2023 18:04:48.470 INFO] - Open Book page success
+[09-10-2023 18:04:50.692 INFO] - Click on book 1 success
+[09-10-2023 18:04:50.692 INFO] - Click on book 1 success
+[09-10-2023 18:04:50.692 INFO] - Click on book 1 success
+[09-10-2023 18:04:56.880 INFO] - Click on book 1 success
+[09-10-2023 18:04:56.882 INFO] - Click on book 1 success
+[09-10-2023 18:04:56.884 INFO] - Click on book 1 success
+[09-10-2023 18:05:10.649 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 18:05:11.601 INFO] - Close browser
+[09-10-2023 18:06:49.365 INFO] - Open browser
+[09-10-2023 18:06:53.384 INFO] - Open Home page success
+[09-10-2023 18:06:53.392 INFO] - Open Home page success
+[09-10-2023 18:06:53.393 INFO] - Open Home page success
+[09-10-2023 18:06:56.401 INFO] - Open Book page success
+[09-10-2023 18:06:56.403 INFO] - Open Book page success
+[09-10-2023 18:06:56.404 INFO] - Open Book page success
+[09-10-2023 18:06:58.720 INFO] - Click on book 1 success
+[09-10-2023 18:06:58.721 INFO] - Click on book 1 success
+[09-10-2023 18:06:58.721 INFO] - Click on book 1 success
+[09-10-2023 18:07:04.945 INFO] - Click on book 2 success
+[09-10-2023 18:07:04.947 INFO] - Click on book 2 success
+[09-10-2023 18:07:04.948 INFO] - Click on book 2 success
+[09-10-2023 18:07:09.047 INFO] - Verify increases product 
+[09-10-2023 18:07:09.047 INFO] - Verify increases product
+[09-10-2023 18:07:09.047 INFO] - Verify increases product
+[09-10-2023 18:07:18.413 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 18:07:19.399 INFO] - Close browser
+[09-10-2023 18:14:53.096 INFO] - Open browser
+[09-10-2023 18:14:57.357 INFO] - Open Home page success
+[09-10-2023 18:14:57.357 INFO] - Open Home page success
+[09-10-2023 18:14:57.357 INFO] - Open Home page success
+[09-10-2023 18:14:59.502 INFO] - Click on book 1 success
+[09-10-2023 18:14:59.503 INFO] - Click on book 1 success
+[09-10-2023 18:14:59.503 INFO] - Click on book 1 success
+[09-10-2023 18:15:08.916 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 18:15:08.952 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 18:15:09.837 INFO] - Close browser
+[09-10-2023 22:27:50.159 INFO] - Open browser
+[09-10-2023 22:27:58.030 INFO] - Open Home page success
+[09-10-2023 22:27:58.031 INFO] - Open Home page success
+[09-10-2023 22:27:58.031 INFO] - Open Home page success
+[09-10-2023 22:28:00.145 INFO] - Click on product 1 success
+[09-10-2023 22:28:00.145 INFO] - Click on product 1 success
+[09-10-2023 22:28:00.145 INFO] - Click on product 1 success
+[09-10-2023 22:28:06.351 INFO] - Click on product 2 success
+[09-10-2023 22:28:06.352 INFO] - Click on product 2 success
+[09-10-2023 22:28:06.353 INFO] - Click on product 2 success
+[09-10-2023 22:28:12.590 INFO] - Click on product 2 success
+[09-10-2023 22:28:12.590 INFO] - Click on product 2 success
+[09-10-2023 22:28:12.590 INFO] - Click on product 2 success
+[09-10-2023 22:28:16.698 INFO] - Verify increases product 
+[09-10-2023 22:28:16.699 INFO] - Verify increases product
+[09-10-2023 22:28:16.699 INFO] - Verify increases product
+[09-10-2023 22:28:16.707 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart SUCCESS test ----------
+[09-10-2023 22:28:18.141 INFO] - Close browser
+[09-10-2023 22:48:47.394 INFO] - Open browser
+[09-10-2023 22:48:51.167 INFO] - Open Home page success
+[09-10-2023 22:48:51.167 INFO] - Open Home page success
+[09-10-2023 22:48:51.167 INFO] - Open Home page success
+[09-10-2023 22:48:53.334 INFO] - Click on product 1 success
+[09-10-2023 22:48:53.343 INFO] - Click on product 1 success
+[09-10-2023 22:48:53.345 INFO] - Click on product 1 success
+[09-10-2023 22:48:59.569 INFO] - Click on product 2 success
+[09-10-2023 22:48:59.569 INFO] - Click on product 2 success
+[09-10-2023 22:48:59.569 INFO] - Click on product 2 success
+[09-10-2023 22:49:05.750 INFO] - Click on product 2 success
+[09-10-2023 22:49:05.750 INFO] - Click on product 2 success
+[09-10-2023 22:49:05.751 INFO] - Click on product 2 success
+[09-10-2023 22:49:09.819 INFO] - Verify increases product 
+[09-10-2023 22:49:09.822 INFO] - Verify increases product
+[09-10-2023 22:49:09.822 INFO] - Verify increases product
+[09-10-2023 22:49:13.091 INFO] - User in cart page
+[09-10-2023 22:49:13.092 INFO] - User in cart page
+[09-10-2023 22:49:13.092 INFO] - User in cart page
+[09-10-2023 22:49:22.268 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 22:49:23.798 INFO] - Close browser
+[09-10-2023 22:50:14.814 INFO] - Open browser
+[09-10-2023 22:50:22.615 INFO] - Open Home page success
+[09-10-2023 22:50:22.615 INFO] - Open Home page success
+[09-10-2023 22:50:22.616 INFO] - Open Home page success
+[09-10-2023 22:50:24.722 INFO] - Click on product 1 success
+[09-10-2023 22:50:24.723 INFO] - Click on product 1 success
+[09-10-2023 22:50:24.723 INFO] - Click on product 1 success
+[09-10-2023 22:50:30.916 INFO] - Click on product 2 success
+[09-10-2023 22:50:30.916 INFO] - Click on product 2 success
+[09-10-2023 22:50:30.916 INFO] - Click on product 2 success
+[09-10-2023 22:50:37.061 INFO] - Click on product 2 success
+[09-10-2023 22:50:37.063 INFO] - Click on product 2 success
+[09-10-2023 22:50:37.064 INFO] - Click on product 2 success
+[09-10-2023 22:50:41.141 INFO] - Verify increases product 
+[09-10-2023 22:50:41.142 INFO] - Verify increases product
+[09-10-2023 22:50:41.142 INFO] - Verify increases product
+[09-10-2023 22:50:44.190 INFO] - User in cart page
+[09-10-2023 22:50:44.191 INFO] - User in cart page
+[09-10-2023 22:50:44.191 INFO] - User in cart page
+[09-10-2023 22:50:53.220 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 22:50:54.423 INFO] - Close browser
+[09-10-2023 22:53:36.547 INFO] - Open browser
+[09-10-2023 22:53:41.483 INFO] - Open Home page success
+[09-10-2023 22:53:41.483 INFO] - Open Home page success
+[09-10-2023 22:53:41.483 INFO] - Open Home page success
+[09-10-2023 22:53:43.589 INFO] - Click on product 1 success
+[09-10-2023 22:53:43.590 INFO] - Click on product 1 success
+[09-10-2023 22:53:43.590 INFO] - Click on product 1 success
+[09-10-2023 22:53:49.815 INFO] - Click on product 2 success
+[09-10-2023 22:53:49.816 INFO] - Click on product 2 success
+[09-10-2023 22:53:49.817 INFO] - Click on product 2 success
+[09-10-2023 22:53:55.978 INFO] - Click on product 2 success
+[09-10-2023 22:53:55.979 INFO] - Click on product 2 success
+[09-10-2023 22:53:55.979 INFO] - Click on product 2 success
+[09-10-2023 22:54:00.093 INFO] - Verify increases product 
+[09-10-2023 22:54:00.093 INFO] - Verify increases product
+[09-10-2023 22:54:00.093 INFO] - Verify increases product
+[09-10-2023 22:54:02.957 INFO] - User in cart page
+[09-10-2023 22:54:02.957 INFO] - User in cart page
+[09-10-2023 22:54:02.958 INFO] - User in cart page
+[09-10-2023 22:54:07.330 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 22:54:08.733 INFO] - Close browser
+[09-10-2023 22:56:25.166 INFO] - Open browser
+[09-10-2023 22:56:29.678 INFO] - Open Home page success
+[09-10-2023 22:56:29.679 INFO] - Open Home page success
+[09-10-2023 22:56:29.679 INFO] - Open Home page success
+[09-10-2023 22:56:31.796 INFO] - Click on product 1 success
+[09-10-2023 22:56:31.798 INFO] - Click on product 1 success
+[09-10-2023 22:56:31.800 INFO] - Click on product 1 success
+[09-10-2023 22:56:38.042 INFO] - Click on product 2 success
+[09-10-2023 22:56:38.045 INFO] - Click on product 2 success
+[09-10-2023 22:56:38.047 INFO] - Click on product 2 success
+[09-10-2023 22:56:44.225 INFO] - Click on product 2 success
+[09-10-2023 22:56:44.226 INFO] - Click on product 2 success
+[09-10-2023 22:56:44.226 INFO] - Click on product 2 success
+[09-10-2023 22:56:48.291 INFO] - Verify increases product 
+[09-10-2023 22:56:48.291 INFO] - Verify increases product
+[09-10-2023 22:56:48.291 INFO] - Verify increases product
+[09-10-2023 22:56:51.119 INFO] - User in cart page
+[09-10-2023 22:56:51.120 INFO] - User in cart page
+[09-10-2023 22:56:51.121 INFO] - User in cart page
+[09-10-2023 22:56:53.211 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:53.214 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:53.215 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:53.284 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:56:53.285 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:56:53.285 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:56:55.336 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:55.337 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:55.338 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:56:55.394 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 22:56:56.535 INFO] - Close browser
+[09-10-2023 22:57:44.907 INFO] - Open browser
+[09-10-2023 22:57:49.635 INFO] - Open Home page success
+[09-10-2023 22:57:49.636 INFO] - Open Home page success
+[09-10-2023 22:57:49.636 INFO] - Open Home page success
+[09-10-2023 22:57:51.759 INFO] - Click on product 1 success
+[09-10-2023 22:57:51.760 INFO] - Click on product 1 success
+[09-10-2023 22:57:51.761 INFO] - Click on product 1 success
+[09-10-2023 22:57:57.938 INFO] - Click on product 2 success
+[09-10-2023 22:57:57.938 INFO] - Click on product 2 success
+[09-10-2023 22:57:57.939 INFO] - Click on product 2 success
+[09-10-2023 22:58:04.085 INFO] - Click on product 2 success
+[09-10-2023 22:58:04.085 INFO] - Click on product 2 success
+[09-10-2023 22:58:04.085 INFO] - Click on product 2 success
+[09-10-2023 22:58:08.155 INFO] - Verify increases product 
+[09-10-2023 22:58:08.155 INFO] - Verify increases product
+[09-10-2023 22:58:08.155 INFO] - Verify increases product
+[09-10-2023 22:58:11.595 INFO] - User in cart page
+[09-10-2023 22:58:11.596 INFO] - User in cart page
+[09-10-2023 22:58:11.596 INFO] - User in cart page
+[09-10-2023 22:58:13.670 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:58:13.670 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:58:13.671 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 22:58:13.700 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:58:13.700 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:58:13.700 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:58:13.727 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:58:13.727 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:58:13.728 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 22:58:18.513 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 22:58:19.630 INFO] - Close browser
+[09-10-2023 22:59:45.871 INFO] - Open browser
+[09-10-2023 22:59:51.082 INFO] - Open Home page success
+[09-10-2023 22:59:51.083 INFO] - Open Home page success
+[09-10-2023 22:59:51.083 INFO] - Open Home page success
+[09-10-2023 22:59:53.197 INFO] - Click on product 1 success
+[09-10-2023 22:59:53.198 INFO] - Click on product 1 success
+[09-10-2023 22:59:53.198 INFO] - Click on product 1 success
+[09-10-2023 22:59:59.419 INFO] - Click on product 2 success
+[09-10-2023 22:59:59.420 INFO] - Click on product 2 success
+[09-10-2023 22:59:59.420 INFO] - Click on product 2 success
+[09-10-2023 23:00:05.533 INFO] - Click on product 2 success
+[09-10-2023 23:00:05.534 INFO] - Click on product 2 success
+[09-10-2023 23:00:05.534 INFO] - Click on product 2 success
+[09-10-2023 23:00:09.602 INFO] - Verify increases product 
+[09-10-2023 23:00:09.602 INFO] - Verify increases product
+[09-10-2023 23:00:09.602 INFO] - Verify increases product
+[09-10-2023 23:00:12.363 INFO] - User in cart page
+[09-10-2023 23:00:12.363 INFO] - User in cart page
+[09-10-2023 23:00:12.363 INFO] - User in cart page
+[09-10-2023 23:00:14.461 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 23:00:14.461 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 23:00:14.462 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 23:00:14.489 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:00:14.490 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:00:14.490 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:00:14.517 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:00:14.519 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:00:14.519 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:00:19.050 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[09-10-2023 23:00:20.718 INFO] - Close browser
+[09-10-2023 23:01:51.847 INFO] - Open browser
+[09-10-2023 23:01:56.043 INFO] - Open Home page success
+[09-10-2023 23:01:56.044 INFO] - Open Home page success
+[09-10-2023 23:01:56.044 INFO] - Open Home page success
+[09-10-2023 23:01:58.186 INFO] - Click on product 1 success
+[09-10-2023 23:01:58.186 INFO] - Click on product 1 success
+[09-10-2023 23:01:58.187 INFO] - Click on product 1 success
+[09-10-2023 23:02:04.386 INFO] - Click on product 2 success
+[09-10-2023 23:02:04.387 INFO] - Click on product 2 success
+[09-10-2023 23:02:04.387 INFO] - Click on product 2 success
+[09-10-2023 23:02:10.544 INFO] - Click on product 2 success
+[09-10-2023 23:02:10.545 INFO] - Click on product 2 success
+[09-10-2023 23:02:10.545 INFO] - Click on product 2 success
+[09-10-2023 23:02:14.631 INFO] - Verify increases product 
+[09-10-2023 23:02:14.631 INFO] - Verify increases product
+[09-10-2023 23:02:14.631 INFO] - Verify increases product
+[09-10-2023 23:02:17.527 INFO] - User in cart page
+[09-10-2023 23:02:17.527 INFO] - User in cart page
+[09-10-2023 23:02:17.527 INFO] - User in cart page
+[09-10-2023 23:02:19.602 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 23:02:19.603 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 23:02:19.603 INFO] - clickOnCheckboxRemoveProduct success
+[09-10-2023 23:02:19.653 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:02:19.653 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:02:19.653 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:02:19.698 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:02:19.698 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:02:19.699 INFO] - verifyCheckboxRemoveProductIsSelected success
+[09-10-2023 23:02:24.870 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart SUCCESS test ----------
+[09-10-2023 23:02:25.894 INFO] - Close browser
+[10-10-2023 00:12:29.577 INFO] - Open browser
+[10-10-2023 00:12:33.281 INFO] - Open Home page success
+[10-10-2023 00:12:33.281 INFO] - Open Home page success
+[10-10-2023 00:12:33.282 INFO] - Open Home page success
+[10-10-2023 00:12:37.475 INFO] - User in cart page
+[10-10-2023 00:12:37.476 INFO] - User in cart page
+[10-10-2023 00:12:37.477 INFO] - User in cart page
+[10-10-2023 00:12:39.626 INFO] - Click on product  success
+[10-10-2023 00:12:39.627 INFO] - Click on product  success
+[10-10-2023 00:12:39.628 INFO] - Click on product  success
+[10-10-2023 00:12:43.814 INFO] - Verify quantity increases 
+[10-10-2023 00:12:43.814 INFO] - Verify quantity increases
+[10-10-2023 00:12:43.815 INFO] - Verify quantity increases
+[10-10-2023 00:12:46.580 INFO] - User in cart page
+[10-10-2023 00:12:46.581 INFO] - User in cart page
+[10-10-2023 00:12:46.581 INFO] - User in cart page
+[10-10-2023 00:12:48.652 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:48.652 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:48.652 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:48.678 INFO] - verifyCheckboxRemoveProductIsSelected success
+[10-10-2023 00:12:48.679 INFO] - verifyCheckboxRemoveProductIsSelected success
+[10-10-2023 00:12:48.679 INFO] - verifyCheckboxRemoveProductIsSelected success
+[10-10-2023 00:12:52.491 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:52.492 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:52.492 INFO] - clickOnCheckboxTermOfService success
+[10-10-2023 00:12:52.509 INFO] - User in Check Out page
+[10-10-2023 00:12:52.510 INFO] - User in Check Out page
+[10-10-2023 00:12:52.510 INFO] - User in Check Out page
+[10-10-2023 00:12:56.067 INFO] - clickOnCheckOuAsGuessButton success
+[10-10-2023 00:12:56.069 INFO] - clickOnCheckOuAsGuessButton success
+[10-10-2023 00:12:56.070 INFO] - clickOnCheckOuAsGuessButton success
+[10-10-2023 00:12:56.085 INFO] - ---------- TC_04_Verify_Buy_Item_Successfully SUCCESS test ----------
+[10-10-2023 00:12:57.127 INFO] - Close browser

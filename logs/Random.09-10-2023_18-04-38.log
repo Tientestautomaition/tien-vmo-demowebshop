@@ -1,0 +1,15 @@
+[09-10-2023 18:04:41.331 INFO] - Open browser
+[09-10-2023 18:04:45.503 INFO] - Open Home page success
+[09-10-2023 18:04:45.504 INFO] - Open Home page success
+[09-10-2023 18:04:45.504 INFO] - Open Home page success
+[09-10-2023 18:04:48.470 INFO] - Open Book page success
+[09-10-2023 18:04:48.470 INFO] - Open Book page success
+[09-10-2023 18:04:48.470 INFO] - Open Book page success
+[09-10-2023 18:04:50.692 INFO] - Click on book 1 success
+[09-10-2023 18:04:50.692 INFO] - Click on book 1 success
+[09-10-2023 18:04:50.692 INFO] - Click on book 1 success
+[09-10-2023 18:04:56.880 INFO] - Click on book 1 success
+[09-10-2023 18:04:56.882 INFO] - Click on book 1 success
+[09-10-2023 18:04:56.884 INFO] - Click on book 1 success
+[09-10-2023 18:05:10.649 INFO] - ---------- TC_02_Verify_Add_Books_To_Card SUCCESS test ----------
+[09-10-2023 18:05:11.601 INFO] - Close browser

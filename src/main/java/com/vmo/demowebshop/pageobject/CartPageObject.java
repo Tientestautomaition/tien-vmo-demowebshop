@@ -2,15 +2,9 @@ package com.vmo.demowebshop.pageobject;
 
 import com.vmo.demowebshop.common.BasePage;
 import com.vmo.demowebshop.helper.Log;
-import com.vmo.demowebshop.interfaces.BooksPageUI;
 import com.vmo.demowebshop.interfaces.CartPageUI;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 
 public class CartPageObject extends BasePage {
 
@@ -29,28 +23,81 @@ public class CartPageObject extends BasePage {
         Log.allure("Open Home page success");
         return this;
     }
-
-    public CartPageObject verifyAddProductToCart(String expectedTitle) {
-        clickToElement(driver,CartPageUI.ADD_TO_CART_PRODUCT1_BTN);
-        clickToElement(driver,CartPageUI.ADD_TO_CART_PRODUCT2_BTN);
-        clickToElement(driver,CartPageUI.ADD_TO_CART_PRODUCT3_BTN);
-        return this;
-    }
     public CartPageObject verifyAppearMsgAddProductToCartSuccess() {
-        Assert.assertTrue(isElementDisplay(driver,CartPageUI.ADD_TO_CART_SUCCESS_MSG));
+        String cartQuantityText0 = getTextElement(driver, CartPageUI.SHOPPING_CART_QUANTITY).substring(1, 2);
+        int cartQuantity0 = Integer.parseInt(cartQuantityText0);
+
+        clickToElement(driver, CartPageUI.ADD_TO_CART_PRODUCT_BTN);
+        Log.info("Click on product 1 success");
+        Log.allure("Click on product 1 success");
+        Assert.assertTrue(isElementDisplay(driver, CartPageUI.ADD_TO_CART_SUCCESS_MSG));
+        sleepInSecond(4);
+
+        String cartQuantityText1 = getTextElement(driver, CartPageUI.SHOPPING_CART_QUANTITY).substring(1, 2);
+        int cartQuantity1 = Integer.parseInt(cartQuantityText1);
+        Assert.assertEquals(cartQuantity1 - 1, cartQuantity0);
+
+        clickToElement(driver, CartPageUI.ADD_TO_CART_PRODUCT_BTN);
+        Log.info("Click on product 2 success");
+        Log.allure("Click on product 2 success");
+        Assert.assertTrue(isElementDisplay(driver, CartPageUI.ADD_TO_CART_SUCCESS_MSG));
+        sleepInSecond(4);
+
+        String cartQuantityText2 = getTextElement(driver, CartPageUI.SHOPPING_CART_QUANTITY).substring(1, 2);
+        int cartQuantity2 = Integer.parseInt(cartQuantityText2);
+        Assert.assertEquals(cartQuantity2 - 1, cartQuantity1);
+
+        clickToElement(driver, CartPageUI.ADD_TO_CART_PRODUCT_BTN);
+        Log.info("Click on product 2 success");
+        Log.allure("Click on product 2 success");
+        Assert.assertTrue(isElementDisplay(driver, CartPageUI.ADD_TO_CART_SUCCESS_MSG));
+        sleepInSecond(4);
+
+        String cartQuantityText3 = getTextElement(driver, CartPageUI.SHOPPING_CART_QUANTITY).substring(1, 2);
+        int cartQuantity3 = Integer.parseInt(cartQuantityText3);
+        Assert.assertEquals(cartQuantity3 - 1, cartQuantity2);
+        Log.info("Verify increases product ");
+        Log.allure("Verify increases product");
         return this;
     }
-    public CartPageObject hoverOnShoppingCartTag() {
-       clickToElement(driver, CartPageUI.SHOPPING_CART_TAG);
+
+    public CartPageObject clickOnShoppingCartTag() {
+        clickToElement(driver, CartPageUI.SHOPPING_CART_TAG);
         return this;
     }
-    public CartPageObject verifyUserInCartPage() {
-        Assert.assertTrue(isElementDisplay(driver,CartPageUI.SHOPPING_CARD_TITLE));
+
+    public CartPageObject verifyUserInCartPage(String expectedTitle) {
+        Assert.assertEquals(getTitle(driver), expectedTitle);
+        Log.info("User in cart page");
+        Log.allure("User in cart page");
         return this;
     }
-    public CartPageObject clickOnCheckboxRemoveProduct(){
-        List<WebElement> listElements = getListWebElements(driver, CartPageUI.CHECKBOX_PRODUCT_REMOVE_ON_CART);
-        List<String> listXpathCheckBox = new ArrayList<>();
+
+    public CartPageObject clickOnCheckboxRemoveProduct() {
+        clickToElement(driver, CartPageUI.CHECKBOX_PRODUCT_REMOVE_ON_CART);
+        Log.info("clickOnCheckboxRemoveProduct success");
+        Log.allure("clickOnCheckboxRemoveProduct success");
+        return this;
+    }
+
+    public CartPageObject verifyCheckboxRemoveProductIsSelected() {
+        Assert.assertTrue(isElementSelected(driver, CartPageUI.CHECKBOX_PRODUCT_REMOVE_ON_CART));
+        Log.info("verifyCheckboxRemoveProductIsSelected success");
+        Log.allure("verifyCheckboxRemoveProductIsSelected success");
+        return this;
+    }
+
+    public CartPageObject clickOnUpdateToCartAndVerifyDecreasesQuantity() {
+        String cartQuantityText0 = getTextElement(driver, CartPageUI.SHOPPING_CART_QUANTITY).substring(1, 2);
+        int cartQuantity0 = Integer.parseInt(cartQuantityText0);
+
+        clickToElement(driver, CartPageUI.UPDATE_TO_CART_BTN);
+        sleepInSecond(2);
+        String cartQuantityText1 = getTextElement(driver, CartPageUI.SHOPPING_CART_QUANTITY).substring(1, 2);
+        int cartQuantity1 = Integer.parseInt(cartQuantityText1);
+        Assert.assertEquals(cartQuantity0 -3  , cartQuantity1);
+        Log.info("clickOnUpdateToCartAndVerifyDecreasesQuantity success");
+        Log.allure("clickOnUpdateToCartAndVerifyDecreasesQuantity success");
         return this;
     }
 }

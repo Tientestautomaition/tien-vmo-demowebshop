@@ -199,9 +199,9 @@ public class BasePage {
     }
 
    protected void clickToElement(WebDriver driver, String locator) {
-     sleepInSecond(1);
      getWebElement(driver, locator).click();
-    }
+       sleepInSecond(2);
+   }
 
    protected void sendKeyToElement(WebDriver driver, String locator, String value) {
         getWebElement(driver, locator).clear();
