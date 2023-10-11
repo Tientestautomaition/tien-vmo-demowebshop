@@ -10,8 +10,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 @Epic("demoWebShop")
-@Feature("RemoveProductFromCart")
-@Story("ARemoveProductFromCartSuccessfully")
+@Feature("CreateOrderSuccessfully")
+@Story("CreateOrderWithDigitalItemSuccessfully")
 public class BuyItemSuccessfully extends BaseTest {
     BuyItemPageObject BuyItemPage;
 

@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 @Epic("demoWebShop")
 @Feature("RemoveProductFromCart")
-@Story("ARemoveProductFromCartSuccessfully")
+@Story("RemoveProductFromCartSuccessfully")
 public class RemoveProductFromCart extends BaseTest {
     CartPageObject cartPage;
 
