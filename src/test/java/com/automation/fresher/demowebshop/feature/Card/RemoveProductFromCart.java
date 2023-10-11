@@ -1,7 +1,6 @@
 package com.automation.fresher.demowebshop.feature.Card;
 
 import com.vmo.demowebshop.common.BaseTest;
-import com.vmo.demowebshop.pageobject.BookPageObject;
 import com.vmo.demowebshop.pageobject.CartPageObject;
 import com.vmo.demowebshop.pageobject.PageGenerator;
 import io.qameta.allure.Epic;
@@ -27,9 +26,7 @@ public class RemoveProductFromCart extends BaseTest {
                 .verifyAppearMsgAddProductToCartSuccess()
                 .clickOnShoppingCartTag()
                 .verifyUserInCartPage("Demo Web Shop. Shopping Cart")
-                .clickOnCheckboxRemoveProduct()
-                .verifyCheckboxRemoveProductIsSelected()
-                .verifyCheckboxRemoveProductIsSelected()
+                .sendKeyToQuantityTextBox("2")
                 .clickOnUpdateToCartAndVerifyDecreasesQuantity();
 }}
 

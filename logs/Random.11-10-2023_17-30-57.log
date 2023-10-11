@@ -1,0 +1,27 @@
+[11-10-2023 17:31:05.756 INFO] - Open browser
+[11-10-2023 17:31:12.539 INFO] - Open Home page success
+[11-10-2023 17:31:12.540 INFO] - Open Home page success
+[11-10-2023 17:31:12.540 INFO] - Open Home page success
+[11-10-2023 17:31:14.681 INFO] - Click on product 1 success
+[11-10-2023 17:31:14.684 INFO] - Click on product 1 success
+[11-10-2023 17:31:14.686 INFO] - Click on product 1 success
+[11-10-2023 17:31:20.915 INFO] - Click on product 2 success
+[11-10-2023 17:31:20.916 INFO] - Click on product 2 success
+[11-10-2023 17:31:20.918 INFO] - Click on product 2 success
+[11-10-2023 17:31:27.087 INFO] - Click on product 2 success
+[11-10-2023 17:31:27.089 INFO] - Click on product 2 success
+[11-10-2023 17:31:27.092 INFO] - Click on product 2 success
+[11-10-2023 17:31:31.179 INFO] - Verify increases product 
+[11-10-2023 17:31:31.179 INFO] - Verify increases product
+[11-10-2023 17:31:31.180 INFO] - Verify increases product
+[11-10-2023 17:31:35.324 INFO] - User in cart page
+[11-10-2023 17:31:35.324 INFO] - User in cart page
+[11-10-2023 17:31:35.325 INFO] - User in cart page
+[11-10-2023 17:31:43.598 INFO] - sendKetToQuantity success
+[11-10-2023 17:31:43.600 INFO] - sendKetToQuantity success
+[11-10-2023 17:31:43.601 INFO] - sendKetToQuantity success
+[11-10-2023 17:31:48.608 INFO] - clickOnUpdateToCartAndVerifyDecreasesQuantity success
+[11-10-2023 17:31:48.609 INFO] - clickOnUpdateToCartAndVerifyDecreasesQuantity success
+[11-10-2023 17:31:48.609 INFO] - clickOnUpdateToCartAndVerifyDecreasesQuantity success
+[11-10-2023 17:31:48.615 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart SUCCESS test ----------
+[11-10-2023 17:31:49.650 INFO] - Close browser

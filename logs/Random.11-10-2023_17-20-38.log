@@ -1,0 +1,24 @@
+[11-10-2023 17:20:42.185 INFO] - Open browser
+[11-10-2023 17:20:47.339 INFO] - Open Home page success
+[11-10-2023 17:20:47.339 INFO] - Open Home page success
+[11-10-2023 17:20:47.339 INFO] - Open Home page success
+[11-10-2023 17:20:49.528 INFO] - Click on product 1 success
+[11-10-2023 17:20:49.530 INFO] - Click on product 1 success
+[11-10-2023 17:20:49.531 INFO] - Click on product 1 success
+[11-10-2023 17:20:55.731 INFO] - Click on product 2 success
+[11-10-2023 17:20:55.732 INFO] - Click on product 2 success
+[11-10-2023 17:20:55.733 INFO] - Click on product 2 success
+[11-10-2023 17:21:01.924 INFO] - Click on product 2 success
+[11-10-2023 17:21:01.925 INFO] - Click on product 2 success
+[11-10-2023 17:21:01.925 INFO] - Click on product 2 success
+[11-10-2023 17:21:05.984 INFO] - Verify increases product 
+[11-10-2023 17:21:05.984 INFO] - Verify increases product
+[11-10-2023 17:21:05.984 INFO] - Verify increases product
+[11-10-2023 17:21:12.729 INFO] - User in cart page
+[11-10-2023 17:21:12.730 INFO] - User in cart page
+[11-10-2023 17:21:12.731 INFO] - User in cart page
+[11-10-2023 17:21:47.132 INFO] - sendKetToQuantity success
+[11-10-2023 17:21:47.132 INFO] - sendKetToQuantity success
+[11-10-2023 17:21:47.133 INFO] - sendKetToQuantity success
+[11-10-2023 17:21:52.273 INFO] - ---------- TC_03_Verify_Remove_Item_Out_Of_Shopping_Cart FAILED test ----------
+[11-10-2023 17:21:53.439 INFO] - Close browser

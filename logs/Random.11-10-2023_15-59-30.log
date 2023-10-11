@@ -1,0 +1,75 @@
+[11-10-2023 15:59:34.100 INFO] - Open browser
+[11-10-2023 15:59:37.780 INFO] - Open Home page success
+[11-10-2023 15:59:37.780 INFO] - Open Home page success
+[11-10-2023 15:59:37.780 INFO] - Open Home page success
+[11-10-2023 15:59:40.578 INFO] - User in cart page
+[11-10-2023 15:59:40.579 INFO] - User in cart page
+[11-10-2023 15:59:40.579 INFO] - User in cart page
+[11-10-2023 15:59:42.685 INFO] - Click on product  success
+[11-10-2023 15:59:42.686 INFO] - Click on product  success
+[11-10-2023 15:59:42.686 INFO] - Click on product  success
+[11-10-2023 15:59:46.825 INFO] - Verify quantity increases 
+[11-10-2023 15:59:46.826 INFO] - Verify quantity increases
+[11-10-2023 15:59:46.826 INFO] - Verify quantity increases
+[11-10-2023 15:59:49.648 INFO] - User in cart page
+[11-10-2023 15:59:49.650 INFO] - User in cart page
+[11-10-2023 15:59:49.650 INFO] - User in cart page
+[11-10-2023 15:59:51.778 INFO] - clickOnCheckboxTermOfService success
+[11-10-2023 15:59:51.779 INFO] - clickOnCheckboxTermOfService success
+[11-10-2023 15:59:51.780 INFO] - clickOnCheckboxTermOfService success
+[11-10-2023 15:59:51.822 INFO] - verifyCheckboxRemoveProductIsSelected success
+[11-10-2023 15:59:51.823 INFO] - verifyCheckboxRemoveProductIsSelected success
+[11-10-2023 15:59:51.824 INFO] - verifyCheckboxRemoveProductIsSelected success
+[11-10-2023 15:59:55.838 INFO] - clickOnCheckboxTermOfService success
+[11-10-2023 15:59:55.839 INFO] - clickOnCheckboxTermOfService success
+[11-10-2023 15:59:55.839 INFO] - clickOnCheckboxTermOfService success
+[11-10-2023 15:59:55.851 INFO] - User in Check Out page
+[11-10-2023 15:59:55.852 INFO] - User in Check Out page
+[11-10-2023 15:59:55.852 INFO] - User in Check Out page
+[11-10-2023 15:59:59.397 INFO] - clickOnCheckOuAsGuessButton success
+[11-10-2023 15:59:59.397 INFO] - clickOnCheckOuAsGuessButton success
+[11-10-2023 15:59:59.397 INFO] - clickOnCheckOuAsGuessButton success
+[11-10-2023 15:59:59.404 INFO] - verifyUserIsOnOnePageCheckOut success
+[11-10-2023 15:59:59.404 INFO] - verifyUserIsOnOnePageCheckOut success
+[11-10-2023 15:59:59.405 INFO] - verifyUserIsOnOnePageCheckOut success
+[11-10-2023 15:59:59.438 INFO] - verifyBillingAddressTabIsExpanding success
+[11-10-2023 15:59:59.438 INFO] - verifyBillingAddressTabIsExpanding success
+[11-10-2023 15:59:59.438 INFO] - verifyBillingAddressTabIsExpanding success
+[11-10-2023 16:00:00.573 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:00.574 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:00.577 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:01.739 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:01.739 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:01.740 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:02.887 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:02.887 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:02.887 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:03.043 INFO] - selectCountryVietNamInDropDown success
+[11-10-2023 16:00:03.044 INFO] - selectCountryVietNamInDropDown success
+[11-10-2023 16:00:03.044 INFO] - selectCountryVietNamInDropDown success
+[11-10-2023 16:00:04.194 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:04.194 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:04.194 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:05.321 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:05.321 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:05.322 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:06.459 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:06.459 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:06.459 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:07.576 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:07.576 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:07.576 INFO] - SenKeysToBillingAddressInfo success
+[11-10-2023 16:00:09.649 INFO] - clickOnContinueButton success
+[11-10-2023 16:00:09.649 INFO] - clickOnContinueButton success
+[11-10-2023 16:00:09.650 INFO] - clickOnContinueButton success
+[11-10-2023 16:00:09.682 INFO] - verifyBillingAddressTabIsExpanding success
+[11-10-2023 16:00:09.682 INFO] - verifyBillingAddressTabIsExpanding success
+[11-10-2023 16:00:09.682 INFO] - verifyBillingAddressTabIsExpanding success
+[11-10-2023 16:00:09.703 INFO] - verifyRadioButtonPaymentMethodCashIsSelected success
+[11-10-2023 16:00:09.703 INFO] - verifyRadioButtonPaymentMethodCashIsSelected success
+[11-10-2023 16:00:09.703 INFO] - verifyRadioButtonPaymentMethodCashIsSelected success
+[11-10-2023 16:00:11.781 INFO] - clickOnContinueButton success
+[11-10-2023 16:00:11.781 INFO] - clickOnContinueButton success
+[11-10-2023 16:00:11.781 INFO] - clickOnContinueButton success
+[11-10-2023 16:00:11.827 INFO] - ---------- TC_04_Verify_Buy_Item_Successfully FAILED test ----------
+[11-10-2023 16:00:12.833 INFO] - Close browser

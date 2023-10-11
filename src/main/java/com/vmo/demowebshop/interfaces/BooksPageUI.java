@@ -9,6 +9,7 @@ public class BooksPageUI {
     public static final String BOOKS_PRODUCT_ADDED = "//div[@class='name']//a";
     public static final String BOOKS_PRODUCT_NAME = "//div[@title='$']/preceding-sibling::h2/a";
     public static final String SHOPPING_CART_QUANTITY = "//a[@class='ico-cart']//span[@class='cart-qty']";
+    public static final String COUNTRY_DROPDOWN = "//select[@id='BillingNewAddress_CountryId']";
 
 
 }

@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
@@ -204,7 +203,8 @@ public class BasePage {
    }
 
    protected void sendKeyToElement(WebDriver driver, String locator, String value) {
-        getWebElement(driver, locator).clear();
+        clickToElement(driver, locator);
+       getWebElement(driver, locator).clear();
         getWebElement(driver, locator).sendKeys(value);
         sleepInSecond(1);
     }
@@ -374,15 +374,16 @@ public class BasePage {
     }
 
    protected void pressKeyboardToElementByActions(WebDriver driver, String locator, Keys key) {
-        action = new Actions(driver);
-        action.sendKeys(getWebElement(driver, locator), key).perform();
+       action = new Actions(driver);
+       action.click(getWebElement(driver, locator));
+       action.sendKeys(getWebElement(driver, locator), key).perform();
     }
 
    protected void pressKeyboardToElement(WebDriver driver, String locator, Keys key) {
         getWebElement(driver, locator).sendKeys(key);
     }
 
-   protected void pressKeyboardToElemnt(WebDriver driver, String locator, Keys key, String... params) {
+    protected void pressKeyboardToElement(WebDriver driver, String locator, Keys key, String... params) {
         locator = getDynamiLocator(locator, params);
         getWebElement(driver, locator).sendKeys(key);
     }

@@ -3,21 +3,10 @@
 <suite name="All Test Suite">
   <test verbose="2" preserve-order="true" name="G:/automation_tranning_vmo/tien-vmo-demowebshop">
     <classes>
-      <class name="com.automation.fresher.demowebshop.feature.Card.BooksProduct">
-        <methods>
-          <include name="TC_02_Verify_Add_Books_To_Card"/>
-        </methods>
-      </class>
-<!--      <class name="Card.com.automation.fresher.demoWebShop.feature.RemoveProductFromCart">-->
-<!--        <methods>-->
-<!--          <include name="TC_02_Verify_Login_To_Demo_Web_Shop"/>-->
-<!--        </methods>-->
-<!--      </class>-->
-<!--      <class name="Login.com.automation.fresher.demoWebShop.feature.LoginDemoWebShop">-->
-<!--        <methods>-->
-<!--          <include name="TC_01_Verify_Login_To_Demo_Web_Shop"/>-->
-<!--        </methods>-->
-<!--      </class>-->
+      <class name="com.automation.fresher.demowebshop.feature.Login.LoginDemoWebShop"/>
+      <class name="com.automation.fresher.demowebshop.feature.Card.BooksProduct"/>
+      <class name="com.automation.fresher.demowebshop.feature.Card.RemoveProductFromCart"/>
+      <class name="com.automation.fresher.demowebshop.feature.Card.BuyItemSuccessfully"/>
     </classes>
   </test>
 </suite>

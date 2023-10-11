@@ -34,6 +34,7 @@ public class BookPageObject extends BasePage {
         Log.info("Open Book page success");
         Log.allure("Open Book page success");
         return this;
+
     }
 
     public BookPageObject clickToBookTag() {

@@ -12,7 +12,7 @@ public class PageGenerator {
     }   public static CartPageObject getCartPageObject(WebDriver driver) {
         return new CartPageObject(driver);
     }
-  public static BuyItemPageObject getBuyItemPageObject(WebDriver driver) {
+    public static BuyItemPageObject getBuyItemPageObject(WebDriver driver) {
         return new BuyItemPageObject(driver);
     }
 
